@@ -1,0 +1,6697 @@
+{
+	"name":"br08202",
+	"children":[
+	{
+		"name":"1. Oxidoreductases reactions",
+		"children":[
+		{
+			"name":"1.1.1.1",
+			"children":[
+			{
+				"name":"R00623\tC00226  Primary alcohol\tC00071  Aldehyde",
+				"children":[
+				{
+					"name":"R00754\tC00469  Ethanol\tC00084  Acetaldehyde"
+				},
+				{
+					"name":"R02124\tC00473  Retinol\tC00376  Retinal"
+				},
+				{
+					"name":"R02878\tC00756  1-Octanol\tC01545  1-Octanal"
+				},
+				{
+					"name":"R04805\tC05444  3alpha,7alpha,26-Trihydroxy-5beta-cholestane\tC05445  3alpha,7alpha-Dihydroxy-5beta-cholestan-26-al"
+				},
+				{
+					"name":"R04880\tC05576  3,4-Dihydroxyphenylethyleneglycol\tC05577  3,4-Dihydroxymandelaldehyde"
+				},
+				{
+					"name":"R05233\tC06611  trans-3-Chloro-2-propene-1-ol\tC06613  trans-3-Chloroallyl aldehyde"
+				},
+				{
+					"name":"R05234\tC06612  cis-3-Chloro-2-propene-1-ol\tC16348  cis-3-Chloroallyl aldehyde"
+				},
+				{
+					"name":"R06917\tC14089  1-Hydroxymethylnaphthalene\tC14090  1-Naphthaldehyde"
+				},
+				{
+					"name":"R06927\tC02909  (2-Naphthyl)methanol\tC14099  2-Naphthaldehyde"
+				},
+				{
+					"name":"R08281\tC16551  Alcophosphamide\tC07645  Aldophosphamide"
+				},
+				{
+					"name":"R08306\tC16586  2-Phenyl-1,3-propanediol monocarbamate\tC16587  3-Carbamoyl-2-phenylpropionaldehyde"
+				},
+				{
+					"name":"R08557\tC00114  Choline\tC00576  Betaine aldehyde"
+				},
+				{
+					"name":"R08558\tC00114  Choline\tC00576  Betaine aldehyde"
+				},
+				{
+					"name":"R10783\tC08492  3-Hexenol\tC16310  3-Hexenal"
+				}
+				]
+			},
+			{
+				"name":"R00624\tC01612  Secondary alcohol\tC01450  Ketone",
+				"children":[
+				{
+					"name":"R08310\tC16595  4-Hydroxy-5-phenyltetrahydro-1,3-oxazin-2-one\tC16596  5-Phenyl-1,3-oxazinane-2,4-dione"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.1.2",
+			"children":[
+			{
+				"name":"R07328\tC00069  Alcohol\tC00071  Aldehyde",
+				"children":[
+				{
+					"name":"R00625\tC00226  Primary alcohol"
+				},
+				{
+					"name":"R00746\tC00469  Ethanol\tC00084  Acetaldehyde"
+				},
+				{
+					"name":"R01041\tC00116  Glycerol\tC00577  D-Glyceraldehyde"
+				},
+				{
+					"name":"R05231\tC06103  6-Hydroxyhexanoic acid\tC06102  Adipate semialdehyde"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.1.17",
+			"children":[
+			{
+				"name":"R00758\tC00085  D-Fructose 6-phosphate",
+				"children":[
+				{
+					"name":"R02703\tC05345  beta-D-Fructose 6-phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.1.21",
+			"children":[
+			{
+				"name":"R02819\tC00717  Alditol\tC01370  Aldose",
+				"children":[
+				{
+					"name":"R01036\tC00116  Glycerol\tC00577  D-Glyceraldehyde"
+				},
+				{
+					"name":"R01093\tC01697  Galactitol\tC00124  D-Galactose"
+				},
+				{
+					"name":"R01758\tC00532  L-Arabitol\tC00259  L-Arabinose"
+				}
+				]
+			},
+			{
+				"name":"R02820\tC00717  Alditol\tC01370  Aldose",
+				"children":[
+				{
+					"name":"R01041\tC00116  Glycerol\tC00577  D-Glyceraldehyde"
+				},
+				{
+					"name":"R01095\tC01697  Galactitol\tC00124  D-Galactose"
+				},
+				{
+					"name":"R01431\tC00379  Xylitol\tC00181  D-Xylose"
+				},
+				{
+					"name":"R01759\tC00532  L-Arabitol\tC00259  L-Arabinose"
+				},
+				{
+					"name":"R01787\tC00794  D-Sorbitol\tC00267  alpha-D-Glucose"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.1.31",
+			"children":[
+			{
+				"name":"R02047\tC01188  3-Hydroxy-2-methylpropanoate\tC00349  2-Methyl-3-oxopropanoate",
+				"children":[
+				{
+					"name":"R05066\tC06001  (S)-3-Hydroxyisobutyrate\tC06002  (S)-Methylmalonate semialdehyde"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.1.35",
+			"children":[
+			{
+				"name":"R01778\tC00640  (3S)-3-Hydroxyacyl-CoA\tC00264  3-Oxoacyl-CoA",
+				"children":[
+				{
+					"name":"R01975\tC01144  (S)-3-Hydroxybutanoyl-CoA\tC00332  Acetoacetyl-CoA"
+				},
+				{
+					"name":"R04203\tC04405  (2S,3S)-3-Hydroxy-2-methylbutanoyl-CoA\tC03344  2-Methylacetoacetyl-CoA"
+				},
+				{
+					"name":"R04737\tC05258  (S)-3-Hydroxyhexadecanoyl-CoA\tC05259  3-Oxopalmitoyl-CoA"
+				},
+				{
+					"name":"R04739\tC05260  (S)-3-Hydroxytetradecanoyl-CoA\tC05261  3-Oxotetradecanoyl-CoA"
+				},
+				{
+					"name":"R04741\tC05262  (S)-3-Hydroxydodecanoyl-CoA\tC05263  3-Oxododecanoyl-CoA"
+				},
+				{
+					"name":"R04743\tC05264  (S)-Hydroxydecanoyl-CoA\tC05265  3-Oxodecanoyl-CoA"
+				},
+				{
+					"name":"R04745\tC05266  (S)-3-Hydroxyoctanoyl-CoA\tC05267  3-Oxooctanoyl-CoA"
+				},
+				{
+					"name":"R04748\tC05268  (S)-Hydroxyhexanoyl-CoA\tC05269  3-Oxohexanoyl-CoA"
+				},
+				{
+					"name":"R06941\tC14145  (3S)-3-Hydroxyadipyl-CoA\tC02232  3-Oxoadipyl-CoA"
+				},
+				{
+					"name":"R07890\tC16329  3-Hydroxy-OPC8-CoA\tC16330  3-Oxo-OPC8-CoA"
+				},
+				{
+					"name":"R07894\tC16333  3-Hydroxy-OPC6-CoA\tC16334  3-Oxo-OPC6-CoA"
+				},
+				{
+					"name":"R07898\tC16337  3-Hydroxy-OPC4-CoA\tC16338  3-Oxo-OPC4-CoA"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.1.36",
+			"children":[
+			{
+				"name":"R01779\tC01086  (3R)-3-Hydroxyacyl-CoA\tC00264  3-Oxoacyl-CoA",
+				"children":[
+				{
+					"name":"R01977\tC03561  (R)-3-Hydroxybutanoyl-CoA\tC00332  Acetoacetyl-CoA"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.1.49",
+			"children":[
+			{
+				"name":"R00835\tC00092  D-Glucose 6-phosphate",
+				"children":[
+				{
+					"name":"R02736\tC01172  beta-D-Glucose 6-phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.1.50",
+			"children":[
+			{
+				"name":"R10422",
+				"children":[
+				{
+					"name":"R02476"
+				},
+				{
+					"name":"R04309"
+				},
+				{
+					"name":"R04818"
+				},
+				{
+					"name":"R04824"
+				},
+				{
+					"name":"R04829"
+				},
+				{
+					"name":"R04832"
+				},
+				{
+					"name":"R04835"
+				},
+				{
+					"name":"R04837"
+				},
+				{
+					"name":"R04842"
+				},
+				{
+					"name":"R04845"
+				}
+				]
+			},
+			{
+				"name":"R10423",
+				"children":[
+				{
+					"name":"R02477"
+				},
+				{
+					"name":"R04310"
+				},
+				{
+					"name":"R04819"
+				},
+				{
+					"name":"R04825"
+				},
+				{
+					"name":"R04830"
+				},
+				{
+					"name":"R04833"
+				},
+				{
+					"name":"R04836"
+				},
+				{
+					"name":"R04838"
+				},
+				{
+					"name":"R04843"
+				},
+				{
+					"name":"R04846"
+				},
+				{
+					"name":"R08963"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.1.71",
+			"children":[
+			{
+				"name":"R07326\tC00069  Alcohol\tC00071  Aldehyde",
+				"children":[
+				{
+					"name":"R00623\tC00226  Primary alcohol"
+				},
+				{
+					"name":"R00754\tC00469  Ethanol\tC00084  Acetaldehyde"
+				}
+				]
+			},
+			{
+				"name":"R07328\tC00069  Alcohol\tC00071  Aldehyde",
+				"children":[
+				{
+					"name":"R00625\tC00226  Primary alcohol"
+				},
+				{
+					"name":"R00746\tC00469  Ethanol\tC00084  Acetaldehyde"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.1.90",
+			"children":[
+			{
+				"name":"R01487\tC00193  Aromatic aldehyde",
+				"children":[
+				{
+					"name":"R01763\tC00556  Benzyl alcohol\tC00261  Benzaldehyde"
+				},
+				{
+					"name":"R02611\tC05853  Phenylethyl alcohol\tC00601  Phenylacetaldehyde"
+				},
+				{
+					"name":"R04304\tC06044  4-Hydroxyphenylethanol\tC03765  4-Hydroxyphenylacetaldehyde"
+				},
+				{
+					"name":"R05282\tC06757  4-Methylbenzyl alcohol\tC06758  p-Tolualdehyde"
+				},
+				{
+					"name":"R05347\tC07216  3-Methylbenzyl alcohol\tC07209  3-Methylbenzaldehyde"
+				},
+				{
+					"name":"R05348\tC07213  2-Methylbenzyl alcohol\tC07214  2-Methylbenzaldehyde"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.1.100",
+			"children":[
+			{
+				"name":"R02767\tC01271  (3R)-3-Hydroxyacyl-[acyl-carrier protein]\tC00685  3-Oxoacyl-[acyl-carrier protein]",
+				"children":[
+				{
+					"name":"R04533\tC04618  (3R)-3-Hydroxybutanoyl-[acyl-carrier protein]\tC05744  Acetoacetyl-[acp]"
+				},
+				{
+					"name":"R04534\tC04619  (3R)-3-Hydroxydecanoyl-[acyl-carrier protein]\tC05753  3-Oxodecanoyl-[acp]"
+				},
+				{
+					"name":"R04536\tC04620  (3R)-3-Hydroxyoctanoyl-[acyl-carrier protein]\tC05750  3-Oxooctanoyl-[acp]"
+				},
+				{
+					"name":"R04543\tC04633  (3R)-3-Hydroxypalmitoyl-[acyl-carrier protein]\tC05762  3-Oxohexadecanoyl-[acp]"
+				},
+				{
+					"name":"R04566\tC04688  (3R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]\tC05759  3-Oxotetradecanoyl-[acp]"
+				},
+				{
+					"name":"R04953\tC05747  (R)-3-Hydroxyhexanoyl-[acp]\tC05746  3-Oxohexanoyl-[acp]"
+				},
+				{
+					"name":"R04964\tC05757  (R)-3-Hydroxydodecanoyl-[acp]\tC05756  3-Oxododecanoyl-[acp]"
+				},
+				{
+					"name":"R07763\tC16219  3-Oxostearoyl-[acp]\tC16220  (R)-3-Hydroxyoctadecanoyl-[acp]"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.1.121",
+			"children":[
+			{
+				"name":"R02847\tC00737  D-Aldose\tC16830  D-Aldonolactone",
+				"children":[
+				{
+					"name":"R00300\tC00031  D-Glucose\tC00198  D-Glucono-1,5-lactone"
+				},
+				{
+					"name":"R01429\tC00181  D-Xylose\tC02266  D-Xylonolactone"
+				},
+				{
+					"name":"R08544\tC00124  D-Galactose\tC02669  D-Galactono-1,5-lactone"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.1.122",
+			"children":[
+			{
+				"name":"R07148\tC02143  D-threo-Aldose\tC16581  D-threo-Aldono-1,5-lactone",
+				"children":[
+				{
+					"name":"R08926\tC01019  6-Deoxy-L-galactose\tC18028  L-Fucono-1,5-lactone"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.1.124",
+			"children":[
+			{
+				"name":"R08651\tC00095  D-Fructose\tC00273  5-Dehydro-D-fructose",
+				"children":[
+				{
+					"name":"R00871\tC10906  D-Fructose\tC00273  5-Dehydro-D-fructose"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.1.140",
+			"children":[
+			{
+				"name":"R07133\tC00085  D-Fructose 6-phosphate",
+				"children":[
+				{
+					"name":"R05607\tC05345  beta-D-Fructose 6-phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.1.146",
+			"children":[
+			{
+				"name":"R03203\tC01058  11beta-Hydroxysteroid\tC01985  11-Oxosteroid",
+				"children":[
+				{
+					"name":"R02836\tC00735  Cortisol\tC00762  Cortisone"
+				},
+				{
+					"name":"R03848\tC02140  Corticosterone\tC05490  11-Dehydrocorticosterone"
+				},
+				{
+					"name":"R04758\tC05284  11beta-Hydroxyandrost-4-ene-3,17-dione\tC05285  Adrenosterone"
+				},
+				{
+					"name":"R04840\tC05476  Tetrahydrocorticosterone\tC05478  3alpha,21-Dihydroxy-5beta-pregnane-11,20-dione"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.1.181",
+			"children":[
+			{
+				"name":"R04263\tC03594  7alpha-Hydroxycholesterol\tC05455  7alpha-Hydroxycholest-4-en-3-one",
+				"children":[
+				{
+					"name":"R08721\tC15518  (24S)-Cholest-5-ene-3beta,7alpha,24-triol\tC17331  7alpha,24-Dihydroxy-4-cholesten-3-one"
+				},
+				{
+					"name":"R08723\tC15520  Cholest-5-ene-3beta,7alpha,25-triol\tC17332  7alpha,25-Dihydroxy-4-cholesten-3-one"
+				},
+				{
+					"name":"R08724\tC06341  7alpha,27-Dihydroxycholesterol\tC17336  7alpha,26-Dihydroxy-4-cholesten-3-one"
+				},
+				{
+					"name":"R08728\tC17335  3beta,7alpha-Dihydroxy-5-cholestenoate\tC17337  7alpha-Hydroxy-3-oxo-4-cholestenoate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.1.184",
+			"children":[
+			{
+				"name":"R03557\tC01612  Secondary alcohol\tC01450  Ketone",
+				"children":[
+				{
+					"name":"R02581\tC00639  Prostaglandin F2alpha\tC00584  Prostaglandin E2"
+				},
+				{
+					"name":"R02975\tC02953  7,8-Dihydrobiopterin\tC00835  Sepiapterin"
+				},
+				{
+					"name":"R04285\tC04244  6-Lactoyl-5,6,7,8-tetrahydropterin\tC03684  6-Pyruvoyltetrahydropterin"
+				},
+				{
+					"name":"R09420\tC19574  4-(Methylnitrosamino)-1-(3-pyridyl)-1-butanol\tC16453  4-(N-Nitrosomethylamino)-1-(3-pyridyl)-1-butanone"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.1.211",
+			"children":[
+			{
+				"name":"R01778\tC00640  (3S)-3-Hydroxyacyl-CoA\tC00264  3-Oxoacyl-CoA",
+				"children":[
+				{
+					"name":"R04737\tC05258  (S)-3-Hydroxyhexadecanoyl-CoA\tC05259  3-Oxopalmitoyl-CoA"
+				},
+				{
+					"name":"R04739\tC05260  (S)-3-Hydroxytetradecanoyl-CoA\tC05261  3-Oxotetradecanoyl-CoA"
+				},
+				{
+					"name":"R04741\tC05262  (S)-3-Hydroxydodecanoyl-CoA\tC05263  3-Oxododecanoyl-CoA"
+				},
+				{
+					"name":"R04743\tC05264  (S)-Hydroxydecanoyl-CoA\tC05265  3-Oxodecanoyl-CoA"
+				},
+				{
+					"name":"R04745\tC05266  (S)-3-Hydroxyoctanoyl-CoA\tC05267  3-Oxooctanoyl-CoA"
+				},
+				{
+					"name":"R04748\tC05268  (S)-Hydroxyhexanoyl-CoA\tC05269  3-Oxohexanoyl-CoA"
+				},
+				{
+					"name":"R07890\tC16329  3-Hydroxy-OPC8-CoA\tC16330  3-Oxo-OPC8-CoA"
+				},
+				{
+					"name":"R07894\tC16333  3-Hydroxy-OPC6-CoA\tC16332  trans-2-Enoyl-OPC6-CoA"
+				},
+				{
+					"name":"R07898\tC16337  3-Hydroxy-OPC4-CoA\tC16338  3-Oxo-OPC4-CoA"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.1.213",
+			"children":[
+			{
+				"name":"R10422",
+				"children":[
+				{
+					"name":"R02476"
+				}
+				]
+			},
+			{
+				"name":"R10423",
+				"children":[
+				{
+					"name":"R02477"
+				},
+				{
+					"name":"R08955"
+				},
+				{
+					"name":"R08957"
+				},
+				{
+					"name":"R08960"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.1.219",
+			"children":[
+			{
+				"name":"R11500\tC21418  (2R,3S,4S)-Leucoanthocyanidin\tC21417  (2R,3R)-Dihydroflavonol",
+				"children":[
+				{
+					"name":"R03123\tC03648  cis-3,4-Leucopelargonidin\tC00974  Dihydrokaempferol"
+				},
+				{
+					"name":"R03636\tC05906  Leucocyanidin\tC01617  Taxifolin"
+				},
+				{
+					"name":"R05038\tC05909  Leucodelphinidin\tC02906  Dihydromyricetin"
+				},
+				{
+					"name":"R07998\tC16415  5-Deoxyleucopelargonidin\tC09751  Garbanzol"
+				},
+				{
+					"name":"R07999\tC09736  Fisetinidol-4beta-ol\tC01378  Fustin"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.1.234",
+			"children":[
+			{
+				"name":"R03827\tC02345  (2S)-Flavan-4-ol\tC02099  (2S)-Flavanone",
+				"children":[
+				{
+					"name":"R04901\tC05907  Luteoforol\tC05631  Eriodictyol"
+				},
+				{
+					"name":"R06610\tC12124  Apiforol\tC00509  Naringenin"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.1.296",
+			"children":[
+			{
+				"name":"R08918\tC18017  8-p-Menthen-2-ol\tC18018  p-Menth-8-en-2-one",
+				"children":[
+				{
+					"name":"R06382\tC11399  (1S,2S,4R)-Iso-dihydrocarveol\tC11401  (1S,4R)-Iso-dihydrocarvone"
+				},
+				{
+					"name":"R06383\tC11413  (1S,2S,4S)-Dihydrocarveol\tC11415  (1S,4S)-Dihydrocarvone"
+				},
+				{
+					"name":"R06384\tC11400  (1S,2R,4R)-Neoiso-dihydrocarveol\tC11401  (1S,4R)-Iso-dihydrocarvone"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.1.318",
+			"children":[
+			{
+				"name":"R09930\tC00060  Carboxylate\tC20224  Coniferyl ester",
+				"children":[
+				{
+					"name":"R10248\tC00033  Acetate\tC20225  Coniferyl acetate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.1.337",
+			"children":[
+			{
+				"name":"R10189\tC15565  (S)-2-Hydroxyacid\tC00161  2-Oxo acid",
+				"children":[
+				{
+					"name":"R07136\tC11537  (2R)-3-Sulfolactate\tC05528  3-Sulfopyruvate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.1.348",
+			"children":[
+			{
+				"name":"R11877\tC21738  (4R)-4,2'-Dihydroxyisoflavan\tC21739  (3R)-2'-Hydroxyisoflavanone",
+				"children":[
+				{
+					"name":"R07737\tC16187  7,2'-Dihydroxy-4'-methoxy-isoflavanol\tC00786  (-)-Vestitone"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.1.359",
+			"children":[
+			{
+				"name":"R10428\tC20655  Aldopyranose\tC20616  Aldono-1,5-lactone",
+				"children":[
+				{
+					"name":"R08544\tC00124  D-Galactose\tC02669  D-Galactono-1,5-lactone"
+				}
+				]
+			},
+			{
+				"name":"R10429\tC20655  Aldopyranose\tC20616  Aldono-1,5-lactone",
+				"children":[
+				{
+					"name":"R01096\tC00124  D-Galactose\tC02669  D-Galactono-1,5-lactone"
+				},
+				{
+					"name":"R07147\tC00031  D-Glucose\tC00198  D-Glucono-1,5-lactone"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.1.363",
+			"children":[
+			{
+				"name":"R00835\tC00092  D-Glucose 6-phosphate",
+				"children":[
+				{
+					"name":"R02736\tC01172  beta-D-Glucose 6-phosphate"
+				}
+				]
+			},
+			{
+				"name":"R10520\tC00092  D-Glucose 6-phosphate",
+				"children":[
+				{
+					"name":"R10907\tC01172  beta-D-Glucose 6-phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.1.388",
+			"children":[
+			{
+				"name":"R10520\tC00092  D-Glucose 6-phosphate",
+				"children":[
+				{
+					"name":"R10907\tC01172  beta-D-Glucose 6-phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.2.7",
+			"children":[
+			{
+				"name":"R10713\tC00226  Primary alcohol\tC00071  Aldehyde",
+				"children":[
+				{
+					"name":"R01146\tC00132  Methanol\tC00067  Formaldehyde"
+				},
+				{
+					"name":"R09127\tC00469  Ethanol\tC00084  Acetaldehyde"
+				},
+				{
+					"name":"R09128\tC06753  2-Chloroethanol\tC06754  Chloroacetaldehyde"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.3.13",
+			"children":[
+			{
+				"name":"R00637\tC00226  Primary alcohol\tC00071  Aldehyde",
+				"children":[
+				{
+					"name":"R00608\tC00132  Methanol\tC00067  Formaldehyde"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.3.15",
+			"children":[
+			{
+				"name":"R01341\tC00161  2-Oxo acid",
+				"children":[
+				{
+					"name":"R00475\tC00160  Glycolate\tC00048  Glyoxylate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.3.41",
+			"children":[
+			{
+				"name":"R11618\tC00717  Alditol\tC01370  Aldose",
+				"children":[
+				{
+					"name":"R07152\tC00379  Xylitol\tC00181  D-Xylose"
+				},
+				{
+					"name":"R11620\tC00794  D-Sorbitol\tC00267  alpha-D-Glucose"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.5.3",
+			"children":[
+			{
+				"name":"R00849\tC15602  Quinone\tC15603  Hydroquinone",
+				"children":[
+				{
+					"name":"R08657\tC00399  Ubiquinone\tC00390  Ubiquinol"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.5.4",
+			"children":[
+			{
+				"name":"R00361\tC15602  Quinone\tC15603  Hydroquinone",
+				"children":[
+				{
+					"name":"R00360\tC00007  Oxygen\tC00027  Hydrogen peroxide"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.5.8",
+			"children":[
+			{
+				"name":"R09322\tC00296  Quinate\tC00944  3-Dehydroquinate",
+				"children":[
+				{
+					"name":"R01873\tC00296  Quinate\tC01359  PQQH2"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.98.6",
+			"children":[
+			{
+				"name":"R11592\tC03802  Ribonucleoside triphosphate\tC00677  Deoxynucleoside triphosphate",
+				"children":[
+				{
+					"name":"R11633\tC00044  GTP\tC00286  dGTP"
+				},
+				{
+					"name":"R11634\tC00002  ATP\tC00131  dATP"
+				},
+				{
+					"name":"R11635\tC00075  UTP\tC00460  dUTP"
+				},
+				{
+					"name":"R11636\tC00063  CTP\tC00458  dCTP"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.99.2",
+			"children":[
+			{
+				"name":"R00298\tC00028  Acceptor\tC00030  Reduced acceptor",
+				"children":[
+				{
+					"name":"R03534\tC00016  FAD\tC01352  FADH2"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.99.3",
+			"children":[
+			{
+				"name":"R01742\tC00028  Acceptor\tC00030  Reduced acceptor",
+				"children":[
+				{
+					"name":"R01741\tC00016  FAD\tC01352  FADH2"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.99.9",
+			"children":[
+			{
+				"name":"R07154\tC00028  Acceptor\tC00030  Reduced acceptor",
+				"children":[
+				{
+					"name":"R01910\tC00007  Oxygen\tC00027  Hydrogen peroxide"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.99.13",
+			"children":[
+			{
+				"name":"R00808\tC00028  Acceptor\tC00030  Reduced acceptor",
+				"children":[
+				{
+					"name":"R00807\tC00016  FAD\tC01352  FADH2"
+				},
+				{
+					"name":"R06233\tC00016  FAD\tC01352  FADH2"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.99.18",
+			"children":[
+			{
+				"name":"R01443\tC00028  Acceptor\tC00030  Reduced acceptor",
+				"children":[
+				{
+					"name":"R01442\tC00007  Oxygen\tC00027  Hydrogen peroxide"
+				},
+				{
+					"name":"R06244\tC00007  Oxygen\tC00027  Hydrogen peroxide"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.99.21",
+			"children":[
+			{
+				"name":"R01697\tC00028  Acceptor\tC00030  Reduced acceptor",
+				"children":[
+				{
+					"name":"R02925\tC00016  FAD\tC01352  FADH2"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.1.99.31",
+			"children":[
+			{
+				"name":"R03793\tC00028  Acceptor\tC00030  Reduced acceptor",
+				"children":[
+				{
+					"name":"R07664\tC00061  FMN\tC01847  Reduced FMN"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.2.1.3",
+			"children":[
+			{
+				"name":"R00538\tC00071  Aldehyde\tC00060  Carboxylate",
+				"children":[
+				{
+					"name":"R00631\tC00071  Aldehyde\tC00162  Fatty acid"
+				},
+				{
+					"name":"R00710\tC00084  Acetaldehyde\tC00033  Acetate"
+				},
+				{
+					"name":"R00904\tC05665  3-Aminopropanal\tC00099  beta-Alanine"
+				},
+				{
+					"name":"R01752\tC00577  D-Glyceraldehyde\tC00258  D-Glycerate"
+				},
+				{
+					"name":"R02549\tC00555  4-Aminobutyraldehyde\tC00334  4-Aminobutanoate"
+				},
+				{
+					"name":"R02678\tC00637  Indole-3-acetaldehyde\tC00954  Indole-3-acetate"
+				},
+				{
+					"name":"R02940\tC05985  2-Propynal\tC00804  Propynoate"
+				},
+				{
+					"name":"R03283\tC01149  4-Trimethylammoniobutanal\tC01181  4-Trimethylammoniobutanoate"
+				},
+				{
+					"name":"R03869\tC06002  (S)-Methylmalonate semialdehyde\tC02170  Methylmalonate"
+				},
+				{
+					"name":"R04065\tC05130  Imidazole-4-acetaldehyde\tC02835  Imidazole-4-acetate"
+				},
+				{
+					"name":"R04506\tC05445  3alpha,7alpha-Dihydroxy-5beta-cholestan-26-al\tC04554  3alpha,7alpha-Dihydroxy-5beta-cholestanate"
+				},
+				{
+					"name":"R04903\tC05634  5-Hydroxyindoleacetaldehyde\tC05635  5-Hydroxyindoleacetate"
+				},
+				{
+					"name":"R05050\tC05936  N4-Acetylaminobutanal\tC02946  4-Acetamidobutanoate"
+				},
+				{
+					"name":"R05286\tC06754  Chloroacetaldehyde\tC06755  Chloroacetic acid"
+				},
+				{
+					"name":"R06366\tC02576  Perillyl aldehyde\tC11924  Perillic acid"
+				},
+				{
+					"name":"R08146\tC03461  2-trans,6-trans-Farnesal\tC16502  Farnesoic acid"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.2.1.4",
+			"children":[
+			{
+				"name":"R00634\tC00071  Aldehyde\tC00174  Acid",
+				"children":[
+				{
+					"name":"R00711\tC00084  Acetaldehyde\tC00033  Acetate"
+				},
+				{
+					"name":"R05099\tC06102  Adipate semialdehyde\tC06104  Adipate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.2.1.5",
+			"children":[
+			{
+				"name":"R00538\tC00071  Aldehyde\tC00060  Carboxylate",
+				"children":[
+				{
+					"name":"R00631\tC00071  Aldehyde\tC00162  Fatty acid"
+				},
+				{
+					"name":"R00710\tC00084  Acetaldehyde\tC00033  Acetate"
+				},
+				{
+					"name":"R00904\tC05665  3-Aminopropanal\tC00099  beta-Alanine"
+				},
+				{
+					"name":"R02536\tC00601  Phenylacetaldehyde\tC07086  Phenylacetic acid"
+				},
+				{
+					"name":"R02695\tC03765  4-Hydroxyphenylacetaldehyde\tC00642  4-Hydroxyphenylacetate"
+				},
+				{
+					"name":"R03300\tC04043  3,4-Dihydroxyphenylacetaldehyde\tC01161  3,4-Dihydroxyphenylacetate"
+				},
+				{
+					"name":"R04882\tC05577  3,4-Dihydroxymandelaldehyde\tC05580  3,4-Dihydroxymandelate"
+				},
+				{
+					"name":"R04888\tC05577  3,4-Dihydroxymandelaldehyde\tC05582  Homovanillate"
+				},
+				{
+					"name":"R04891\tC05583  3-Methoxy-4-hydroxyphenylglycolaldehyde\tC05584  3-Methoxy-4-hydroxymandelate"
+				},
+				{
+					"name":"R04996\tC05827  Methylimidazole acetaldehyde\tC05828  Methylimidazoleacetic acid"
+				},
+				{
+					"name":"R08282\tC07645  Aldophosphamide\tC07646  Carboxyphosphamide"
+				},
+				{
+					"name":"R08307\tC16587  3-Carbamoyl-2-phenylpropionaldehyde\tC16591  3-Carbamoyl-2-phenylpropionic acid"
+				}
+				]
+			},
+			{
+				"name":"R00634\tC00071  Aldehyde\tC00060  Carboxylate",
+				"children":[
+				{
+					"name":"R00711\tC00084  Acetaldehyde\tC00033  Acetate"
+				},
+				{
+					"name":"R02537\tC00601  Phenylacetaldehyde\tC07086  Phenylacetic acid"
+				},
+				{
+					"name":"R02697\tC03765  4-Hydroxyphenylacetaldehyde\tC00642  4-Hydroxyphenylacetate"
+				},
+				{
+					"name":"R03302\tC04043  3,4-Dihydroxyphenylacetaldehyde\tC01161  3,4-Dihydroxyphenylacetate"
+				},
+				{
+					"name":"R04883\tC05577  3,4-Dihydroxymandelaldehyde\tC05580  3,4-Dihydroxymandelate"
+				},
+				{
+					"name":"R04889\tC05581  3-Methoxy-4-hydroxyphenylacetaldehyde\tC05582  Homovanillate"
+				},
+				{
+					"name":"R04892\tC05583  3-Methoxy-4-hydroxyphenylglycolaldehyde\tC05584  3-Methoxy-4-hydroxymandelate"
+				},
+				{
+					"name":"R08283\tC07645  Aldophosphamide\tC07646  Carboxyphosphamide"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.2.1.23",
+			"children":[
+			{
+				"name":"R01337\tC00538  2-Oxoaldehyde\tC00161  2-Oxo acid",
+				"children":[
+				{
+					"name":"R00203\tC00546  Methylglyoxal\tC00022  Pyruvate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.2.1.27",
+			"children":[
+			{
+				"name":"R00922\tC00349  2-Methyl-3-oxopropanoate",
+				"children":[
+				{
+					"name":"R00935\tC06002  (S)-Methylmalonate semialdehyde"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.2.1.29",
+			"children":[
+			{
+				"name":"R01486\tC00193  Aromatic aldehyde\tC00539  Aromatic acid",
+				"children":[
+				{
+					"name":"R02655\tC05585  Gentisate aldehyde\tC00628  2,5-Dihydroxybenzoate"
+				},
+				{
+					"name":"R02695\tC03765  4-Hydroxyphenylacetaldehyde\tC00642  4-Hydroxyphenylacetate"
+				},
+				{
+					"name":"R03300\tC04043  3,4-Dihydroxyphenylacetaldehyde\tC01161  3,4-Dihydroxyphenylacetate"
+				},
+				{
+					"name":"R05235\tC06577  4-Isopropylbenzaldehyde\tC06578  p-Cumate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.2.1.48",
+			"children":[
+			{
+				"name":"R02039\tC00609  Long-chain aldehyde\tC00347  Long-chain carboxylate",
+				"children":[
+				{
+					"name":"R01704\tC00517  Hexadecanal\tC00249  Hexadecanoic acid"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.2.1.49",
+			"children":[
+			{
+				"name":"R01338\tC00538  2-Oxoaldehyde\tC00161  2-Oxo acid",
+				"children":[
+				{
+					"name":"R00205\tC00546  Methylglyoxal\tC00022  Pyruvate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.2.3.1",
+			"children":[
+			{
+				"name":"R00635\tC00071  Aldehyde\tC00060  Carboxylate",
+				"children":[
+				{
+					"name":"R01709\tC00250  Pyridoxal\tC00847  4-Pyridoxate"
+				},
+				{
+					"name":"R02125\tC00376  Retinal\tC00777  Retinoate"
+				},
+				{
+					"name":"R02657\tC05585  Gentisate aldehyde\tC00628  2,5-Dihydroxybenzoate"
+				},
+				{
+					"name":"R03871\tC06002  (S)-Methylmalonate semialdehyde\tC02170  Methylmalonate"
+				},
+				{
+					"name":"R04904\tC05634  5-Hydroxyindoleacetaldehyde\tC05635  5-Hydroxyindoleacetate"
+				},
+				{
+					"name":"R08349\tC16612  Citalopram aldehyde\tC16610  Citalopram propionic acid"
+				},
+				{
+					"name":"R08384\tC16681  9-cis-Retinal\tC15493  9-cis-Retinoic acid"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.2.3.9",
+			"children":[
+			{
+				"name":"R01489\tC00193  Aromatic aldehyde\tC00539  Aromatic acid",
+				"children":[
+				{
+					"name":"R05273\tC00755  4-Hydroxy-3-methoxy-benzaldehyde\tC06672  Vanillate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.2.5.2",
+			"children":[
+			{
+				"name":"R10911\tC00071  Aldehyde\tC15602  Quinone\tC00060  Carboxylate\tC15603  Hydroquinone",
+				"children":[
+				{
+					"name":"R01019\tC00084  Acetaldehyde\tC00113  PQQ\tC00033  Acetate\tC01359  PQQH2"
+				},
+				{
+					"name":"R03535\tC05985  2-Propynal\tC00113  PQQ\tC00804  Propynoate\tC01359  PQQH2"
+				},
+				{
+					"name":"R10912\tC00162  Fatty acid"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.2.7.5",
+			"children":[
+			{
+				"name":"R07158\tC00071  Aldehyde\tC00060  Carboxylate",
+				"children":[
+				{
+					"name":"R08571\tC00577  D-Glyceraldehyde\tC00258  D-Glycerate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.2.7.11",
+			"children":[
+			{
+				"name":"R10516",
+				"children":[
+				{
+					"name":"R01196\tC00022  Pyruvate\tC00024  Acetyl-CoA"
+				},
+				{
+					"name":"R01197\tC00026  2-Oxoglutarate\tC00091  Succinyl-CoA"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.2.7.12",
+			"children":[
+			{
+				"name":"R11743\tC21629  Formylmethanofuran\tC21621  Methanofuran",
+				"children":[
+				{
+					"name":"R03015\tC01001  Formylmethanofuran\tC00862  Methanofuran"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.2.99.6",
+			"children":[
+			{
+				"name":"R00544\tC00071  Aldehyde\tC00060  Carboxylate",
+				"children":[
+				{
+					"name":"R00326\tC00084  Acetaldehyde\tC00033  Acetate"
+				},
+				{
+					"name":"R00638\tC00071  Aldehyde\tC00162  Fatty acid"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.2.99.7",
+			"children":[
+			{
+				"name":"R00544\tC00071  Aldehyde\tC00060  Carboxylate",
+				"children":[
+				{
+					"name":"R00638\tC00071  Aldehyde\tC00162  Fatty acid"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.3.1.1",
+			"children":[
+			{
+				"name":"R01414\tC00906  5,6-Dihydrothymine",
+				"children":[
+				{
+					"name":"R11026\tC21028  (R)-5,6-Dihydrothymine"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.3.1.8",
+			"children":[
+			{
+				"name":"R00385\tC00040  Acyl-CoA\tC00605  2,3-Dehydroacyl-CoA",
+				"children":[
+				{
+					"name":"R01278\tC00154  Palmitoyl-CoA\tC05272  trans-Hexadec-2-enoyl-CoA"
+				},
+				{
+					"name":"R03776\tC01944  Octanoyl-CoA\tC05276  trans-Oct-2-enoyl-CoA"
+				},
+				{
+					"name":"R03856\tC01832  Lauroyl-CoA\tC03221  2-trans-Dodecenoyl-CoA"
+				},
+				{
+					"name":"R03989\tC02593  Tetradecanoyl-CoA\tC05273  trans-Tetradec-2-enoyl-CoA"
+				},
+				{
+					"name":"R04753\tC05274  Decanoyl-CoA\tC05275  trans-Dec-2-enoyl-CoA"
+				},
+				{
+					"name":"R06985\tC05271  trans-Hex-2-enoyl-CoA\tC05270  Hexanoyl-CoA"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.3.1.9",
+			"children":[
+			{
+				"name":"R01403\tC00173  Acyl-[acyl-carrier protein]\tC00693  trans-2,3-Dehydroacyl-[acyl-carrier protein]",
+				"children":[
+				{
+					"name":"R04429\tC05745  Butyryl-[acp]\tC04246  But-2-enoyl-[acyl-carrier protein]"
+				},
+				{
+					"name":"R04724\tC05223  Dodecanoyl-[acyl-carrier protein]\tC05758  trans-Dodec-2-enoyl-[acp]"
+				},
+				{
+					"name":"R04955\tC05749  Hexanoyl-[acp]\tC05748  trans-Hex-2-enoyl-[acp]"
+				},
+				{
+					"name":"R04958\tC05752  Octanoyl-[acp]\tC05751  trans-Oct-2-enoyl-[acp]"
+				},
+				{
+					"name":"R04961\tC05755  Decanoyl-[acp]\tC05754  trans-Dec-2-enoyl-[acp]"
+				},
+				{
+					"name":"R04966\tC05761  Tetradecanoyl-[acp]\tC05760  trans-Tetradec-2-enoyl-[acp]"
+				},
+				{
+					"name":"R04969\tC05764  Hexadecanoyl-[acp]\tC05763  trans-Hexadec-2-enoyl-[acp]"
+				},
+				{
+					"name":"R07765\tC04088  Octadecanoyl-[acyl-carrier protein]\tC16221  (2E)-Octadecenoyl-[acp]"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.3.1.10",
+			"children":[
+			{
+				"name":"R01404\tC00173  Acyl-[acyl-carrier protein]\tC00693  trans-2,3-Dehydroacyl-[acyl-carrier protein]",
+				"children":[
+				{
+					"name":"R04430\tC05745  Butyryl-[acp]\tC04246  But-2-enoyl-[acyl-carrier protein]"
+				},
+				{
+					"name":"R04725\tC05223  Dodecanoyl-[acyl-carrier protein]\tC05758  trans-Dodec-2-enoyl-[acp]"
+				},
+				{
+					"name":"R04956\tC05749  Hexanoyl-[acp]\tC05748  trans-Hex-2-enoyl-[acp]"
+				},
+				{
+					"name":"R04959\tC05752  Octanoyl-[acp]\tC05751  trans-Oct-2-enoyl-[acp]"
+				},
+				{
+					"name":"R04962\tC05755  Decanoyl-[acp]\tC05754  trans-Dec-2-enoyl-[acp]"
+				},
+				{
+					"name":"R04967\tC05761  Tetradecanoyl-[acp]\tC05760  trans-Tetradec-2-enoyl-[acp]"
+				},
+				{
+					"name":"R04970\tC05764  Hexadecanoyl-[acp]\tC05763  trans-Hexadec-2-enoyl-[acp]"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.3.1.22",
+			"children":[
+			{
+				"name":"R02610\tC03238  5alpha-Cholestan-3-one\tC00599  Cholest-4-en-3-one",
+				"children":[
+				{
+					"name":"R02208\tC03681  5alpha-Pregnane-3,20-dione\tC00410  Progesterone"
+				},
+				{
+					"name":"R02497\tC03917  Dihydrotestosterone\tC00535  Testosterone"
+				},
+				{
+					"name":"R02892\tC03588  4,5alpha-Dihydrocortisone\tC00762  Cortisone"
+				},
+				{
+					"name":"R07429\tC15786  5alpha-Campestan-3-one\tC15785  Campest-4-en-3-one"
+				},
+				{
+					"name":"R07447\tC15797  22alpha-Hydroxy-5alpha-campestan-3-one\tC15796  22alpha-Hydroxy-campest-4-en-3-one"
+				},
+				{
+					"name":"R08954\tC18040  5alpha-Dihydrodeoxycorticosterone\tC03205  11-Deoxycorticosterone"
+				},
+				{
+					"name":"R10242\tC00674  5alpha-Androstane-3,17-dione\tC00280  Androstenedione"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.3.1.38",
+			"children":[
+			{
+				"name":"R07162\tC00040  Acyl-CoA\tC00658  trans-2,3-Dehydroacyl-CoA",
+				"children":[
+				{
+					"name":"R01278\tC00154  Palmitoyl-CoA\tC05272  trans-Hexadec-2-enoyl-CoA"
+				},
+				{
+					"name":"R03776\tC01944  Octanoyl-CoA\tC05276  trans-Oct-2-enoyl-CoA"
+				},
+				{
+					"name":"R03856\tC01832  Lauroyl-CoA\tC03221  2-trans-Dodecenoyl-CoA"
+				},
+				{
+					"name":"R03989\tC02593  Tetradecanoyl-CoA\tC05273  trans-Tetradec-2-enoyl-CoA"
+				},
+				{
+					"name":"R04753\tC05274  Decanoyl-CoA\tC05275  trans-Dec-2-enoyl-CoA"
+				},
+				{
+					"name":"R06985\tC05270  Hexanoyl-CoA\tC05271  trans-Hex-2-enoyl-CoA"
+				},
+				{
+					"name":"R07761\tC16218  (2E)-Octadecenoyl-CoA\tC00412  Stearoyl-CoA"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.3.1.39",
+			"children":[
+			{
+				"name":"R01404\tC00173  Acyl-[acyl-carrier protein]\tC00693  trans-2,3-Dehydroacyl-[acyl-carrier protein]",
+				"children":[
+				{
+					"name":"R04430\tC05745  Butyryl-[acp]\tC04246  But-2-enoyl-[acyl-carrier protein]"
+				},
+				{
+					"name":"R04725\tC05223  Dodecanoyl-[acyl-carrier protein]\tC05758  trans-Dodec-2-enoyl-[acp]"
+				},
+				{
+					"name":"R04956\tC05749  Hexanoyl-[acp]\tC05748  trans-Hex-2-enoyl-[acp]"
+				},
+				{
+					"name":"R04959\tC05752  Octanoyl-[acp]\tC05751  trans-Oct-2-enoyl-[acp]"
+				},
+				{
+					"name":"R04962\tC05755  Decanoyl-[acp]\tC05754  trans-Dec-2-enoyl-[acp]"
+				},
+				{
+					"name":"R04967\tC05761  Tetradecanoyl-[acp]\tC05760  trans-Tetradec-2-enoyl-[acp]"
+				},
+				{
+					"name":"R04970\tC05764  Hexadecanoyl-[acp]\tC05763  trans-Hexadec-2-enoyl-[acp]"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.3.1.44",
+			"children":[
+			{
+				"name":"R00384\tC00040  Acyl-CoA\tC00658  trans-2,3-Dehydroacyl-CoA",
+				"children":[
+				{
+					"name":"R01171\tC00136  Butanoyl-CoA\tC00877  Crotonoyl-CoA"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.3.1.77",
+			"children":[
+			{
+				"name":"R07352\tC15598  2,3-cis-2R,3R-Flavan-3-ol\tC21381  Anthocyanidin with a 3-hydroxy group",
+				"children":[
+				{
+					"name":"R06541\tC12128  (-)-Epiafzelechin\tC05904  Pelargonidin"
+				},
+				{
+					"name":"R06542\tC09727  (-)-Epicatechin\tC05905  Cyanidin"
+				},
+				{
+					"name":"R06543\tC12136  (-)-Epigallocatechin\tC05908  Delphinidin"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.3.1.104",
+			"children":[
+			{
+				"name":"R01404\tC00173  Acyl-[acyl-carrier protein]\tC00693  trans-2,3-Dehydroacyl-[acyl-carrier protein]",
+				"children":[
+				{
+					"name":"R04430\tC05745  Butyryl-[acp]\tC04246  But-2-enoyl-[acyl-carrier protein]"
+				},
+				{
+					"name":"R04725\tC05223  Dodecanoyl-[acyl-carrier protein]\tC05758  trans-Dodec-2-enoyl-[acp]"
+				},
+				{
+					"name":"R04956\tC05749  Hexanoyl-[acp]\tC05748  trans-Hex-2-enoyl-[acp]"
+				},
+				{
+					"name":"R04959\tC05752  Octanoyl-[acp]\tC05751  trans-Oct-2-enoyl-[acp]"
+				},
+				{
+					"name":"R04962\tC05755  Decanoyl-[acp]\tC05754  trans-Dec-2-enoyl-[acp]"
+				},
+				{
+					"name":"R04967\tC05761  Tetradecanoyl-[acp]\tC05760  trans-Tetradec-2-enoyl-[acp]"
+				},
+				{
+					"name":"R04970\tC05764  Hexadecanoyl-[acp]\tC05763  trans-Hexadec-2-enoyl-[acp]"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.3.3.6",
+			"children":[
+			{
+				"name":"R00388\tC00040  Acyl-CoA\tC00658  trans-2,3-Dehydroacyl-CoA",
+				"children":[
+				{
+					"name":"R07934\tC16168  (6Z,9Z,12Z,15Z,18Z,21Z)-Tetracosahexaenoyl-CoA\tC16374  (2E,6Z,9Z,12Z,15Z,18Z,21Z)-Tetracosaheptaenoyl-CoA"
+				},
+				{
+					"name":"R07950\tC16172  (6Z,9Z,12Z,15Z,18Z)-Tetracosapentaenoyl-CoA\tC16387  (2E,6Z,9Z,12Z,15Z,18Z)-Tetracosahexaenoyl-CoA"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.3.8.1",
+			"children":[
+			{
+				"name":"R01178\tC20675  Short-chain acyl-CoA\tC20676  Short-chain trans-2,3-dehydroacyl-CoA\tC04253  Electron-transferring flavoprotein\tC04570  Reduced electron-transferring flavoprotein",
+				"children":[
+				{
+					"name":"R01175\tC00136  Butanoyl-CoA\tC00877  Crotonoyl-CoA\tC00016  FAD\tC01352  FADH2"
+				},
+				{
+					"name":"R04751\tC05270  Hexanoyl-CoA\tC05271  trans-Hex-2-enoyl-CoA\tC00016  FAD\tC01352  FADH2"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.3.8.6",
+			"children":[
+			{
+				"name":"R02488\tC04253  Electron-transferring flavoprotein\tC04570  Reduced electron-transferring flavoprotein",
+				"children":[
+				{
+					"name":"R02487\tC00016  FAD\tC01352  FADH2"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.3.8.7",
+			"children":[
+			{
+				"name":"R00392\tC00040  Acyl-CoA\tC00605  2,3-Dehydroacyl-CoA\tC04253  Electron-transferring flavoprotein\tC04570  Reduced electron-transferring flavoprotein",
+				"children":[
+				{
+					"name":"R01175\tC00136  Butanoyl-CoA\tC00877  Crotonoyl-CoA\tC00016  FAD\tC01352  FADH2"
+				},
+				{
+					"name":"R01279\tC00154  Palmitoyl-CoA\tC05272  trans-Hexadec-2-enoyl-CoA\tC00016  FAD\tC01352  FADH2"
+				},
+				{
+					"name":"R03777\tC01944  Octanoyl-CoA\tC05276  trans-Oct-2-enoyl-CoA\tC00016  FAD\tC01352  FADH2"
+				},
+				{
+					"name":"R03857\tC01832  Lauroyl-CoA\tC03221  2-trans-Dodecenoyl-CoA\tC00016  FAD\tC01352  FADH2"
+				},
+				{
+					"name":"R03990\tC02593  Tetradecanoyl-CoA\tC05273  trans-Tetradec-2-enoyl-CoA\tC00016  FAD\tC01352  FADH2"
+				},
+				{
+					"name":"R04095\tC02939  3-Methylbutanoyl-CoA\tC03069  3-Methylcrotonyl-CoA\tC00016  FAD\tC01352  FADH2"
+				},
+				{
+					"name":"R04432\tC00100  Propanoyl-CoA\tC00894  Propenoyl-CoA"
+				},
+				{
+					"name":"R04751\tC05270  Hexanoyl-CoA\tC05271  trans-Hex-2-enoyl-CoA\tC00016  FAD\tC01352  FADH2"
+				},
+				{
+					"name":"R04754\tC05274  Decanoyl-CoA\tC05275  trans-Dec-2-enoyl-CoA\tC00016  FAD\tC01352  FADH2"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.3.8.8",
+			"children":[
+			{
+				"name":"R00392\tC00040  Acyl-CoA\tC00605  2,3-Dehydroacyl-CoA\tC04253  Electron-transferring flavoprotein\tC04570  Reduced electron-transferring flavoprotein",
+				"children":[
+				{
+					"name":"R01279\tC00154  Palmitoyl-CoA\tC05272  trans-Hexadec-2-enoyl-CoA\tC00016  FAD\tC01352  FADH2"
+				},
+				{
+					"name":"R03777\tC01944  Octanoyl-CoA\tC05276  trans-Oct-2-enoyl-CoA\tC00016  FAD\tC01352  FADH2"
+				},
+				{
+					"name":"R03857\tC01832  Lauroyl-CoA\tC03221  2-trans-Dodecenoyl-CoA\tC00016  FAD\tC01352  FADH2"
+				},
+				{
+					"name":"R03990\tC02593  Tetradecanoyl-CoA\tC05273  trans-Tetradec-2-enoyl-CoA\tC00016  FAD\tC01352  FADH2"
+				},
+				{
+					"name":"R04751\tC05270  Hexanoyl-CoA\tC05271  trans-Hex-2-enoyl-CoA\tC00016  FAD\tC01352  FADH2"
+				},
+				{
+					"name":"R04754\tC05274  Decanoyl-CoA\tC05275  trans-Dec-2-enoyl-CoA\tC00016  FAD\tC01352  FADH2"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.3.99.4",
+			"children":[
+			{
+				"name":"R03748\tC01876  3-Oxosteroid\tC02941  3-Oxo-Delta1-steroid",
+				"children":[
+				{
+					"name":"R09884\tC00280  Androstenedione\tC20144  Androsta-1,4-diene-3,17-dione"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.3.99.5",
+			"children":[
+			{
+				"name":"R02643\tC02940  3-Oxo-5alpha-steroid\tC00619  3-Oxo-Delta4-steroid",
+				"children":[
+				{
+					"name":"R01834\tC00674  5alpha-Androstane-3,17-dione\tC00280  Androstenedione"
+				},
+				{
+					"name":"R04827\tC05458  7alpha,12alpha-Dihydroxy-5alpha-cholestan-3-one"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.3.99.6",
+			"children":[
+			{
+				"name":"R02642\tC02797  3-Oxo-5beta-steroid\tC00619  3-Oxo-Delta4-steroid\tC00028  Acceptor\tC00030  Reduced acceptor",
+				"children":[
+				{
+					"name":"R02215\tC05479  5beta-Pregnane-3,20-dione\tC00410  Progesterone"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.3.99.12",
+			"children":[
+			{
+				"name":"R03173\tC01033  2-Methylbutanoyl-CoA\tC00028  Acceptor\tC00030  Reduced acceptor",
+				"children":[
+				{
+					"name":"R03172\tC15980  (S)-2-Methylbutanoyl-CoA\tC00016  FAD\tC01352  FADH2"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.3.99.39",
+			"children":[
+			{
+				"name":"R12115\tC21915  Carotenoid beta-end group\tC21916  Carotenoid phi-end group",
+				"children":[
+				{
+					"name":"R07541\tC05435  gamma-Carotene\tC15908  Chlorobactene"
+				},
+				{
+					"name":"R07857\tC02094  beta-Carotene\tC16340  beta-Isorenieratene"
+				},
+				{
+					"name":"R07858\tC16340  beta-Isorenieratene\tC15943  Isorenieratene"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.4.3.2",
+			"children":[
+			{
+				"name":"R01259\tC00151  L-Amino acid\tC00161  2-Oxo acid",
+				"children":[
+				{
+					"name":"R00357\tC00049  L-Aspartate\tC00036  Oxaloacetate"
+				},
+				{
+					"name":"R00648\tC00073  L-Methionine\tC01180  4-Methylthio-2-oxobutanoic acid"
+				},
+				{
+					"name":"R00677\tC00078  L-Tryptophan\tC00331  Indolepyruvate"
+				},
+				{
+					"name":"R00689\tC00079  L-Phenylalanine\tC00166  Phenylpyruvate"
+				},
+				{
+					"name":"R00729\tC00082  L-Tyrosine\tC01179  3-(4-Hydroxyphenyl)pyruvate"
+				},
+				{
+					"name":"R02197\tC00407  L-Isoleucine\tC00671  (S)-3-Methyl-2-oxopentanoic acid"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.4.3.3",
+			"children":[
+			{
+				"name":"R01340\tC00405  D-Amino acid\tC00161  2-Oxo acid",
+				"children":[
+				{
+					"name":"R02457\tC00515  D-Ornithine\tC01110  5-Amino-2-oxopentanoic acid"
+				},
+				{
+					"name":"R02894\tC00763  D-Proline\tC03564  1-Pyrroline-2-carboxylate"
+				},
+				{
+					"name":"R02923\tC00792  D-Arginine\tC03771  5-Guanidino-2-oxopentanoate"
+				},
+				{
+					"name":"R05861\tC00133  D-Alanine\tC00022  Pyruvate"
+				},
+				{
+					"name":"R07400\tC00916  Cephalosporin C\tC04712  (7R)-7-(5-Carboxy-5-oxopentanoyl)aminocephalosporinate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.4.3.4",
+			"children":[
+			{
+				"name":"R11354\tC21299  RCH2NHR'\tC00071  Aldehyde\tC21300  R'NH2",
+				"children":[
+				{
+					"name":"R02173\tC00398  Tryptamine\tC00637  Indole-3-acetaldehyde\tC00014  Ammonia"
+				},
+				{
+					"name":"R02382\tC00483  Tyramine\tC03765  4-Hydroxyphenylacetaldehyde\tC00014  Ammonia"
+				},
+				{
+					"name":"R02529\tC01888  Aminoacetone\tC00546  Methylglyoxal\tC00014  Ammonia"
+				},
+				{
+					"name":"R02532\tC00547  L-Noradrenaline\tC05577  3,4-Dihydroxymandelaldehyde\tC00014  Ammonia"
+				},
+				{
+					"name":"R02613\tC05332  Phenethylamine\tC00601  Phenylacetaldehyde\tC00014  Ammonia"
+				},
+				{
+					"name":"R02908\tC00780  Serotonin\tC05634  5-Hydroxyindoleacetaldehyde\tC00014  Ammonia"
+				},
+				{
+					"name":"R02919\tC00788  L-Adrenaline\tC05577  3,4-Dihydroxymandelaldehyde\tC00218  Methylamine"
+				},
+				{
+					"name":"R04025\tC02714  N-Acetylputrescine\tC05936  N4-Acetylaminobutanal\tC00014  Ammonia"
+				},
+				{
+					"name":"R04300\tC03758  Dopamine\tC04043  3,4-Dihydroxyphenylacetaldehyde\tC00014  Ammonia"
+				},
+				{
+					"name":"R04674\tC05127  N-Methylhistamine\tC05827  Methylimidazole acetaldehyde\tC00014  Ammonia"
+				},
+				{
+					"name":"R04890\tC05587  3-Methoxytyramine\tC05581  3-Methoxy-4-hydroxyphenylacetaldehyde\tC00014  Ammonia"
+				},
+				{
+					"name":"R04893\tC05589  L-Normetanephrine\tC05583  3-Methoxy-4-hydroxyphenylglycolaldehyde\tC00014  Ammonia"
+				},
+				{
+					"name":"R04894\tC05588  L-Metanephrine\tC05583  3-Methoxy-4-hydroxyphenylglycolaldehyde\tC00218  Methylamine"
+				},
+				{
+					"name":"R08347\tC16608  Demethylcitalopram\tC16612  Citalopram aldehyde\tC00218  Methylamine"
+				},
+				{
+					"name":"R08348\tC16609  Didemethylcitalopram\tC16612  Citalopram aldehyde\tC00014  Ammonia"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.4.3.21",
+			"children":[
+			{
+				"name":"R01853\tC00375  RCH2NH2\tC00071  Aldehyde",
+				"children":[
+				{
+					"name":"R02382\tC00483  Tyramine\tC03765  4-Hydroxyphenylacetaldehyde"
+				},
+				{
+					"name":"R02529\tC01888  Aminoacetone\tC00546  Methylglyoxal"
+				},
+				{
+					"name":"R02613\tC05332  Phenethylamine\tC00601  Phenylacetaldehyde"
+				},
+				{
+					"name":"R03139\tC00986  1,3-Diaminopropane\tC05665  3-Aminopropanal"
+				},
+				{
+					"name":"R04027\tC02723  N-Methylputrescine"
+				},
+				{
+					"name":"R04300\tC03758  Dopamine\tC04043  3,4-Dihydroxyphenylacetaldehyde"
+				},
+				{
+					"name":"R05334\tC02723  N-Methylputrescine\tC10974  4-Methylaminobutanal"
+				},
+				{
+					"name":"R06154\tC00218  Methylamine\tC00067  Formaldehyde"
+				},
+				{
+					"name":"R06740\tC01672  Cadaverine\tC12455  5-Aminopentanal"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.4.99.5",
+			"children":[
+			{
+				"name":"R05704\tC01326  Hydrogen cyanide",
+				"children":[
+				{
+					"name":"R00374\tC00177  Cyanide ion"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.5.1.34",
+			"children":[
+			{
+				"name":"R07354\tC05649  Dihydropteridine",
+				"children":[
+				{
+					"name":"R01793\tC00272  Tetrahydrobiopterin\tC00268  Dihydrobiopterin"
+				}
+				]
+			},
+			{
+				"name":"R07355\tC05649  Dihydropteridine",
+				"children":[
+				{
+					"name":"R01794\tC00272  Tetrahydrobiopterin\tC00268  Dihydrobiopterin"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.5.1.36",
+			"children":[
+			{
+				"name":"R09662\tC19790  Reduced flavin\tC00176  Flavin",
+				"children":[
+				{
+					"name":"R05705\tC01847  Reduced FMN\tC00061  FMN"
+				},
+				{
+					"name":"R09748\tC01352  FADH2\tC00016  FAD"
+				},
+				{
+					"name":"R09750\tC01077  O-Acetyl-L-homoserine\tC00255  Riboflavin"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.5.99.3",
+			"children":[
+			{
+				"name":"R02206\tC00028  Acceptor\tC00030  Reduced acceptor",
+				"children":[
+				{
+					"name":"R02205\tC00016  FAD\tC01352  FADH2"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.5.99.4",
+			"children":[
+			{
+				"name":"R02860",
+				"children":[
+				{
+					"name":"R07946"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.5.99.6",
+			"children":[
+			{
+				"name":"R01915\tC00028  Acceptor\tC00030  Reduced acceptor",
+				"children":[
+				{
+					"name":"R01914\tC00007  Oxygen\tC00027  Hydrogen peroxide"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.6.5.2",
+			"children":[
+			{
+				"name":"R07358\tC15602  Quinone\tC15603  Hydroquinone",
+				"children":[
+				{
+					"name":"R02964\tC00828  Menaquinone\tC05819  Menaquinol"
+				},
+				{
+					"name":"R03643\tC01628  Vitamin K\tC05850  Reduced Vitamin K"
+				},
+				{
+					"name":"R03816\tC02059  Phylloquinone\tC03313  Phylloquinol"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.7.2.1",
+			"children":[
+			{
+				"name":"R00783\tC00125  Ferricytochrome c\tC00126  Ferrocytochrome c",
+				"children":[
+				{
+					"name":"R00784\tC00997  Ferricytochrome c2\tC01000  Ferrocytochrome c2"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.7.3.1",
+			"children":[
+			{
+				"name":"R10388\tC06058  Nitroalkane\tC00071  Aldehyde",
+				"children":[
+				{
+					"name":"R00799\tC01837  Nitroethane\tC00084  Acetaldehyde"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.7.99.1",
+			"children":[
+			{
+				"name":"R00284\tC00028  Acceptor\tC00030  Reduced acceptor",
+				"children":[
+				{
+					"name":"R00143\tC00003  NAD+\tC00004  NADH"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.8.1.4",
+			"children":[
+			{
+				"name":"R08550\tC16832  Protein N6-(dihydrolipoyl)lysine\tC16237  Protein N6-(lipoyl)lysine",
+				"children":[
+				{
+					"name":"R03815\tC02972  Dihydrolipoylprotein\tC02051  Lipoylprotein"
+				},
+				{
+					"name":"R07618\tC15973  Enzyme N6-(dihydrolipoyl)lysine\tC15972  Enzyme N6-(lipoyl)lysine"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.8.3.5",
+			"children":[
+			{
+				"name":"R07360\tC06751  Prenyl-L-cysteine\tC15604  Prenal",
+				"children":[
+				{
+					"name":"R09562\tC19691  Farnesylcysteine\tC03461  2-trans,6-trans-Farnesal"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.8.4.1",
+			"children":[
+			{
+				"name":"R01110\tC20788  Homocystine\tC05330  Homocysteine",
+				"children":[
+				{
+					"name":"R01292\tC01817  L-Homocystine\tC00155  L-Homocysteine"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.8.4.4",
+			"children":[
+			{
+				"name":"R01109\tC01420  Cystine\tC00736  Cysteine",
+				"children":[
+				{
+					"name":"R01113\tC00491  L-Cystine\tC00097  L-Cysteine"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.8.5.5",
+			"children":[
+			{
+				"name":"R11488\tC15602  Quinone\tC15603  Hydroquinone",
+				"children":[
+				{
+					"name":"R10149\tC00828  Menaquinone\tC05819  Menaquinol"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.8.99.2",
+			"children":[
+			{
+				"name":"R00860\tC00028  Acceptor\tC00030  Reduced acceptor",
+				"children":[
+				{
+					"name":"R08553\tC00016  FAD\tC01352  FADH2"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.9.3.1",
+			"children":[
+			{
+				"name":"R00081\tC00126  Ferrocytochrome c\tC00125  Ferricytochrome c",
+				"children":[
+				{
+					"name":"R00082\tC01000  Ferrocytochrome c2\tC00997  Ferricytochrome c2"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.9.6.1",
+			"children":[
+			{
+				"name":"R03071\tC00924  Ferrocytochrome\tC00923  Ferricytochrome",
+				"children":[
+				{
+					"name":"R00792\tC06259  Ferrocytochrome b\tC06260  Ferricytochrome b"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.11.1.7",
+			"children":[
+			{
+				"name":"R03532\tC00030  Reduced acceptor\tC00028  Acceptor",
+				"children":[
+				{
+					"name":"R00602\tC00132  Methanol\tC00067  Formaldehyde"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.11.1.15",
+			"children":[
+			{
+				"name":"R07180\tC01336  Aryl thiol\tC15496  Oxidized thiol-containing reductant",
+				"children":[
+				{
+					"name":"R08360\tC16663  Tryparedoxin\tC16664  Tryparedoxin disulfide"
+				},
+				{
+					"name":"R08362\tC02090  Trypanothione\tC03170  Trypanothione disulfide"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.14.11.9",
+			"children":[
+			{
+				"name":"R07329\tC02099  (2S)-Flavanone\tC21417  (2R,3R)-Dihydroflavonol",
+				"children":[
+				{
+					"name":"R02444\tC00509  Naringenin\tC00974  Dihydrokaempferol"
+				},
+				{
+					"name":"R03640\tC05631  Eriodictyol\tC01617  Taxifolin"
+				},
+				{
+					"name":"R05039\tC05911  Pentahydroxyflavanone\tC02906  Dihydromyricetin"
+				},
+				{
+					"name":"R07993\tC09827  Pinocembrin\tC09826  Pinobanksin"
+				},
+				{
+					"name":"R07996\tC09762  Liquiritigenin\tC09751  Garbanzol"
+				},
+				{
+					"name":"R07997\tC09614  Butin\tC01378  Fustin"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.14.12.10",
+			"children":[
+			{
+				"name":"R07188\tC04634  1,6-Dihydroxycyclohexa-2,4-diene-1-carboxylate",
+				"children":[
+				{
+					"name":"R05621\tC06321  (1R,6S)-1,6-Dihydroxycyclohexa-2,4-diene-1-carboxylate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.14.13.69",
+			"children":[
+			{
+				"name":"R07194\tC15508  1,2-Epoxypropane",
+				"children":[
+				{
+					"name":"R05729\tC11506  (2R)-1,2-Epoxypropane"
+				},
+				{
+					"name":"R05730\tC11507  (S)-1,2-Epoxypropane"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.14.13.240",
+			"children":[
+			{
+				"name":"R08768\tC05810  2-Octaprenylphenol\tC05811  2-Octaprenyl-6-hydroxyphenol",
+				"children":[
+				{
+					"name":"R04987\tC05807  2-Polyprenylphenol\tC17551  2-Polyprenyl-6-hydroxyphenol"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.14.14.1",
+			"children":[
+			{
+				"name":"R04122\tC01371  Alkane\tC01335  ROH",
+				"children":[
+				{
+					"name":"R01842\tC00280  Androstenedione\tC05296  7alpha-Hydroxyandrost-4-ene-3,17-dione"
+				},
+				{
+					"name":"R02354\tC00468  Estrone\tC05298  2-Hydroxyestrone"
+				},
+				{
+					"name":"R02355\tC00468  Estrone\tC05298  2-Hydroxyestrone"
+				},
+				{
+					"name":"R02356\tC00468  Estrone\tC05300  16alpha-Hydroxyestrone"
+				},
+				{
+					"name":"R02503\tC00535  Testosterone\tC05291  7alpha-Hydroxytestosterone"
+				},
+				{
+					"name":"R03088\tC00951  Estradiol-17beta\tC05301  2-Hydroxyestradiol"
+				},
+				{
+					"name":"R03089\tC00951  Estradiol-17beta\tC05141  Estriol"
+				},
+				{
+					"name":"R03090\tC00951  Estradiol-17beta\tC05301  2-Hydroxyestradiol"
+				},
+				{
+					"name":"R03408\tC01227  Dehydroepiandrosterone\tC05139  16alpha-Hydroxydehydroepiandrosterone"
+				},
+				{
+					"name":"R03629\tC01598  Melatonin\tC05643  6-Hydroxymelatonin"
+				},
+				{
+					"name":"R04121\tC00162  Fatty acid\tC05102  alpha-Hydroxy fatty acid"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.14.14.5",
+			"children":[
+			{
+				"name":"R07210\tC15521  Alkanesulfonate\tC00071  Aldehyde",
+				"children":[
+				{
+					"name":"R10206\tC11145  Methanesulfonic acid\tC00067  Formaldehyde"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.14.14.16",
+			"children":[
+			{
+				"name":"R02130\tC00377  Steroid\tC02506  21-Hydroxysteroid",
+				"children":[
+				{
+					"name":"R02213\tC00410  Progesterone\tC03205  11-Deoxycorticosterone"
+				},
+				{
+					"name":"R02838\tC05497  21-Deoxycortisol\tC00735  Cortisol"
+				},
+				{
+					"name":"R03326\tC01176  17alpha-Hydroxyprogesterone\tC05488  11-Deoxycortisol"
+				},
+				{
+					"name":"R03784\tC01953  Pregnenolone\tC05485  21-Hydroxypregnenolone"
+				},
+				{
+					"name":"R03849\tC05498  11beta-Hydroxyprogesterone\tC02140  Corticosterone"
+				},
+				{
+					"name":"R04675\tC05138  17alpha-Hydroxypregnenolone\tC05487  17alpha,21-Dihydroxypregnenolone"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.14.14.19",
+			"children":[
+			{
+				"name":"R02131\tC00377  Steroid\tC03336  17alpha-Hydroxysteroid",
+				"children":[
+				{
+					"name":"R02211\tC00410  Progesterone\tC01176  17alpha-Hydroxyprogesterone"
+				},
+				{
+					"name":"R03783\tC01953  Pregnenolone\tC05138  17alpha-Hydroxypregnenolone"
+				},
+				{
+					"name":"R04852\tC05498  11beta-Hydroxyprogesterone\tC05497  21-Deoxycortisol"
+				},
+				{
+					"name":"R04853\tC05500  20alpha-Hydroxycholesterol\tC05499  17alpha,20alpha-Dihydroxycholesterol"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.14.14.42",
+			"children":[
+			{
+				"name":"R11646\tC21534  L-Polyhomomethionine\tC21535  omega-(Methylthio)-(E)-alkanal oxime",
+				"children":[
+				{
+					"name":"R08665\tC17213  Homomethionine\tC17241  4-Methylthiobutanaldoxime"
+				},
+				{
+					"name":"R08670\tC17217  Dihomomethionine\tC17245  5-Methylthiopentanaldoxime"
+				},
+				{
+					"name":"R08672\tC17221  Trihomomethionine\tC17246  6-Methylthiohexanaldoxime"
+				},
+				{
+					"name":"R08673\tC17225  Tetrahomomethionine\tC17249  7-Methylthioheptanaldoxime"
+				},
+				{
+					"name":"R08674\tC17229  Pentahomomethionine\tC17251  8-Methylthiooctanaldoxime"
+				},
+				{
+					"name":"R08675\tC17233  Hexahomomethionine\tC17253  9-Methylthiononanaldoxime"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.14.14.80",
+			"children":[
+			{
+				"name":"R12072\tC00638  Long-chain fatty acid\tC21886  omega-Hydroxy-long-chain fatty acid",
+				"children":[
+				{
+					"name":"R07041\tC00219  Arachidonate\tC14748  20-HETE"
+				},
+				{
+					"name":"R09451\tC00249  Hexadecanoic acid\tC18218  16-Hydroxypalmitate"
+				},
+				{
+					"name":"R09452\tC00712  (9Z)-Octadecenoic acid\tC19616  18-Hydroxyoleate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.14.14.81",
+			"children":[
+			{
+				"name":"R07369\tC00766  Flavanone\tC15204  3'-Hydroxyflavanone",
+				"children":[
+				{
+					"name":"R02442\tC00509  Naringenin\tC05631  Eriodictyol"
+				},
+				{
+					"name":"R03124\tC00974  Dihydrokaempferol\tC01617  Taxifolin"
+				}
+				]
+			},
+			{
+				"name":"R07370\tC15204  3'-Hydroxyflavanone\tC15609  3',5'-Dihydroxyflavanone",
+				"children":[
+				{
+					"name":"R03639\tC01617  Taxifolin\tC02906  Dihydromyricetin"
+				},
+				{
+					"name":"R04902\tC05631  Eriodictyol\tC05911  Pentahydroxyflavanone"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.14.14.82",
+			"children":[
+			{
+				"name":"R03615\tC01579  Flavonoid\tC02790  3'-Hydroxyflavonoid",
+				"children":[
+				{
+					"name":"R02442\tC00509  Naringenin\tC05631  Eriodictyol"
+				},
+				{
+					"name":"R03124\tC00974  Dihydrokaempferol\tC01617  Taxifolin"
+				},
+				{
+					"name":"R06537\tC01477  Apigenin\tC01514  Luteolin"
+				},
+				{
+					"name":"R06538\tC05903  Kaempferol\tC00389  Quercetin"
+				},
+				{
+					"name":"R08002\tC09762  Liquiritigenin\tC09614  Butin"
+				},
+				{
+					"name":"R08032\tC09751  Garbanzol\tC01378  Fustin"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.14.14.84",
+			"children":[
+			{
+				"name":"R04366\tC03985  Linalool\tC04433  (E)-3,7-Dimethylocta-1,6-diene-3,8-diol",
+				"children":[
+				{
+					"name":"R09922\tC11389  (+)-Linalool\tC04433  (E)-3,7-Dimethylocta-1,6-diene-3,8-diol"
+				},
+				{
+					"name":"R09923\tC11388  (-)-Linalool\tC04433  (E)-3,7-Dimethylocta-1,6-diene-3,8-diol"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.14.14.90",
+			"children":[
+			{
+				"name":"R07371\tC00799  Isoflavone\tC02921  2'-Hydroxyisoflavone",
+				"children":[
+				{
+					"name":"R06560\tC00858  Formononetin\tC02920  2'-Hydroxyformononetin"
+				},
+				{
+					"name":"R06561\tC00814  Biochanin A\tC12135  2'-Hydroxybiochanin A"
+				},
+				{
+					"name":"R06606\tC10208  Daidzein\tC02495  2'-Hydroxydaidzein"
+				},
+				{
+					"name":"R06607\tC06563  Genistein\tC12134  2'-Hydroxygenistein"
+				},
+				{
+					"name":"R07746\tC10522  Pseudobaptigenin\tC16226  2',7-Dihydroxy-4',5'-methylenedioxyisoflavone"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.14.14.154",
+			"children":[
+			{
+				"name":"R12118\tC21918  14alpha-Methylsteroid\tC21919  Delta14-Steroid",
+				"children":[
+				{
+					"name":"R05640\tC01724  Lanosterol\tC11455  4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol"
+				},
+				{
+					"name":"R05731\tC01943  Obtusifoliol\tC11508  4alpha-Methyl-5alpha-ergosta-8,14,24(28)-trien-3beta-ol"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.14.15.4",
+			"children":[
+			{
+				"name":"R02726\tC00377  Steroid\tC01058  11beta-Hydroxysteroid",
+				"children":[
+				{
+					"name":"R02725\tC00280  Androstenedione\tC05284  11beta-Hydroxyandrost-4-ene-3,17-dione"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.14.19.76",
+			"children":[
+			{
+				"name":"R12276\tC00766  Flavanone\tC10043  Flavone",
+				"children":[
+				{
+					"name":"R12277\tC09762  Liquiritigenin\tC12123  7,4'-Dihydroxyflavone"
+				},
+				{
+					"name":"R12278\tC00509  Naringenin\tC01477  Apigenin"
+				},
+				{
+					"name":"R12279\tC05631  Eriodictyol\tC01514  Luteolin"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.14.20.4",
+			"children":[
+			{
+				"name":"R11993\tC21418  (2R,3S,4S)-Leucoanthocyanidin\tC21381  Anthocyanidin with a 3-hydroxy group",
+				"children":[
+				{
+					"name":"R04276\tC03648  cis-3,4-Leucopelargonidin\tC05904  Pelargonidin"
+				},
+				{
+					"name":"R05036\tC05906  Leucocyanidin\tC05905  Cyanidin"
+				},
+				{
+					"name":"R05037\tC05909  Leucodelphinidin\tC05908  Delphinidin"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.14.20.5",
+			"children":[
+			{
+				"name":"R07367\tC00766  Flavanone\tC15608  Flavone",
+				"children":[
+				{
+					"name":"R02445\tC00509  Naringenin\tC01477  Apigenin"
+				},
+				{
+					"name":"R03590\tC05631  Eriodictyol\tC01514  Luteolin"
+				},
+				{
+					"name":"R06551\tC05911  Pentahydroxyflavanone\tC10192  Tricetin"
+				},
+				{
+					"name":"R07712\tC09762  Liquiritigenin\tC12123  7,4'-Dihydroxyflavone"
+				},
+				{
+					"name":"R08081\tC09827  Pinocembrin\tC10028  Chrysin"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.14.20.6",
+			"children":[
+			{
+				"name":"R07368\tC15570  Dihydroflavonol\tC01495  Flavonol",
+				"children":[
+				{
+					"name":"R02160\tC01617  Taxifolin\tC00389  Quercetin"
+				},
+				{
+					"name":"R03126\tC00974  Dihydrokaempferol\tC05903  Kaempferol"
+				},
+				{
+					"name":"R06539\tC02906  Dihydromyricetin\tC10107  Myricetin"
+				},
+				{
+					"name":"R08082\tC09826  Pinobanksin\tC10044  Galangin"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.14.99.2",
+			"children":[
+			{
+				"name":"R03441\tC00030  Reduced acceptor\tC00028  Acceptor",
+				"children":[
+				{
+					"name":"R03439\tC00004  NADH\tC00003  NAD+"
+				},
+				{
+					"name":"R03440\tC00005  NADPH\tC00006  NADP+"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.14.99.39",
+			"children":[
+			{
+				"name":"R09519\tC00030  Reduced acceptor\tC00028  Acceptor",
+				"children":[
+				{
+					"name":"R00148\tC00390  Ubiquinol\tC00399  Ubiquinone"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.17.4.1",
+			"children":[
+			{
+				"name":"R04294\tC04232  2'-Deoxyribonucleoside diphosphate\tC03723  Ribonucleoside diphosphate",
+				"children":[
+				{
+					"name":"R02017\tC00206  dADP\tC00008  ADP"
+				},
+				{
+					"name":"R02018\tC01346  dUDP\tC00015  UDP"
+				},
+				{
+					"name":"R02019\tC00361  dGDP\tC00035  GDP"
+				},
+				{
+					"name":"R02024\tC00705  dCDP\tC00112  CDP"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.17.4.2",
+			"children":[
+			{
+				"name":"R04315\tC03802  Ribonucleoside triphosphate",
+				"children":[
+				{
+					"name":"R02014\tC00131  dATP\tC00002  ATP"
+				},
+				{
+					"name":"R02020\tC00286  dGTP\tC00044  GTP"
+				},
+				{
+					"name":"R02022\tC00458  dCTP\tC00063  CTP"
+				},
+				{
+					"name":"R02023\tC00460  dUTP\tC00075  UTP"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"1.18.1.2",
+			"children":[
+			{
+				"name":"R01195\tC00138  Reduced ferredoxin\tC00139  Oxidized ferredoxin",
+				"children":[
+				{
+					"name":"R10159\tC00662  Reduced adrenal ferredoxin\tC00667  Oxidized adrenal ferredoxin"
+				}
+				]
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"2. Transferases reactions",
+		"children":[
+		{
+			"name":"2.1.1.6",
+			"children":[
+			{
+				"name":"R07330\tC15571  Catechol\tC15572  Guaiacol",
+				"children":[
+				{
+					"name":"R00827\tC00090  Catechol\tC01502  o-Methoxyphenol"
+				},
+				{
+					"name":"R02534\tC00547  L-Noradrenaline\tC05589  L-Normetanephrine"
+				},
+				{
+					"name":"R02920\tC00788  L-Adrenaline\tC05588  L-Metanephrine"
+				},
+				{
+					"name":"R03304\tC01161  3,4-Dihydroxyphenylacetate\tC05582  Homovanillate"
+				},
+				{
+					"name":"R04301\tC03758  Dopamine\tC05587  3-Methoxytyramine"
+				},
+				{
+					"name":"R04762\tC05298  2-Hydroxyestrone\tC05299  2-Methoxyestrone"
+				},
+				{
+					"name":"R04764\tC05301  2-Hydroxyestradiol\tC05302  2-Methoxy-17beta-estradiol"
+				},
+				{
+					"name":"R04881\tC05576  3,4-Dihydroxyphenylethyleneglycol\tC05594  3-Methoxy-4-hydroxyphenylethyleneglycol"
+				},
+				{
+					"name":"R04887\tC05580  3,4-Dihydroxymandelate\tC05584  3-Methoxy-4-hydroxymandelate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.1.1.37",
+			"children":[
+			{
+				"name":"R00380\tC00039  DNA",
+				"children":[
+				{
+					"name":"R04858\tC00856  DNA cytosine"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.1.1.42",
+			"children":[
+			{
+				"name":"R10824\tC20871  3'-Hydroxyflavone\tC20872  3'-Methoxyflavone",
+				"children":[
+				{
+					"name":"R03587\tC01514  Luteolin\tC04293  Chrysoeriol"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.1.1.49",
+			"children":[
+			{
+				"name":"R02808\tC00706  Amine\tC02436  Methylated amine",
+				"children":[
+				{
+					"name":"R02174\tC00398  Tryptamine\tC06213  N-Methyltryptamine"
+				},
+				{
+					"name":"R02910\tC00780  Serotonin\tC06212  N-Methylserotonin"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.1.1.64",
+			"children":[
+			{
+				"name":"R08781\tC17562  2-Polyprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone\tC00399  Ubiquinone",
+				"children":[
+				{
+					"name":"R02175\tC05805  2-Hexaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone\tC17568  Ubiquinone-6"
+				},
+				{
+					"name":"R05614\tC05815  2-Octaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone\tC17569  Ubiquinone-8"
+				},
+				{
+					"name":"R07235\tC03226  3-Demethylubiquinone-9\tC01967  Ubiquinone-9"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.1.1.67",
+			"children":[
+			{
+				"name":"R03701\tC01756  Thiopurine",
+				"children":[
+				{
+					"name":"R08236\tC02380  6-Mercaptopurine\tC16614  6-Methylmercaptopurine"
+				},
+				{
+					"name":"R08239\tC04646  6-Thioinosine-5'-monophosphate\tC16615  6-Methylthiopurine 5'-monophosphate ribonucleotide"
+				},
+				{
+					"name":"R08246\tC16619  6-Thioguanosine monophosphate\tC16620  6-Methylthioguanosine monophosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.1.1.114",
+			"children":[
+			{
+				"name":"R08771\tC17554  3-Polyprenyl-4,5-dihydroxybenzoate\tC17559  3-Polyprenyl-4-hydroxy-5-methoxybenzoate",
+				"children":[
+				{
+					"name":"R04711\tC05200  3-Hexaprenyl-4,5-dihydroxybenzoate\tC05313  3-Hexaprenyl-4-hydroxy-5-methoxybenzoate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.1.1.128",
+			"children":[
+			{
+				"name":"R05162\tC06346  (R,S)-Norcoclaurine\tC06348  (R,S)-Coclaurine",
+				"children":[
+				{
+					"name":"R05123\tC06160  (S)-Norcoclaurine\tC06161  (S)-Coclaurine"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.1.1.150",
+			"children":[
+			{
+				"name":"R07375\tC15615  7-Hydroxyisoflavone\tC15616  7-Methoxyisoflavone",
+				"children":[
+				{
+					"name":"R06794\tC06563  Genistein\tC10521  Prunetin"
+				},
+				{
+					"name":"R07724\tC10208  Daidzein\tC12125  Isoformononetin"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.1.1.222",
+			"children":[
+			{
+				"name":"R08769\tC17551  2-Polyprenyl-6-hydroxyphenol\tC17552  2-Polyprenyl-6-methoxyphenol",
+				"children":[
+				{
+					"name":"R04988\tC05811  2-Octaprenyl-6-hydroxyphenol\tC05812  2-Octaprenyl-6-methoxyphenol"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.1.1.231",
+			"children":[
+			{
+				"name":"R09792\tC19896  4'-Hydroxyflavanone\tC19895  4'-Methoxyflavanone",
+				"children":[
+				{
+					"name":"R12213\tC00509  Naringenin\tC05334  Isosakuranetin"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.1.3.7",
+			"children":[
+			{
+				"name":"R04281\tC04448  3-Hydroxymethyl ceph-3-em-4-carboxylate\tC03674  3-Carbamoyloxymethylcephem",
+				"children":[
+				{
+					"name":"R05230\tC03112  Deacetylcephalosporin C\tC06568  O-Carbamoyl-deacetylcephalosporin C"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.2.1.2",
+			"children":[
+			{
+				"name":"R08575\tC05382  Sedoheptulose 7-phosphate\tC00118  D-Glyceraldehyde 3-phosphate\tC00279  D-Erythrose 4-phosphate\tC00085  D-Fructose 6-phosphate",
+				"children":[
+				{
+					"name":"R01827\tC05382  Sedoheptulose 7-phosphate\tC00118  D-Glyceraldehyde 3-phosphate\tC00279  D-Erythrose 4-phosphate\tC05345  beta-D-Fructose 6-phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.2.1.6",
+			"children":[
+			{
+				"name":"R00006\tC00900  2-Acetolactate",
+				"children":[
+				{
+					"name":"R00226\tC06010  (S)-2-Acetolactate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.3.1.5",
+			"children":[
+			{
+				"name":"R02387\tC00292  Aniline",
+				"children":[
+				{
+					"name":"R08036\tC16396  2,4-Diamino-6-nitrotoluene\tC16420  4-Acetamido-2-amino-6-nitrotoluene"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.3.1.15",
+			"children":[
+			{
+				"name":"R00851\tC00040  Acyl-CoA",
+				"children":[
+				{
+					"name":"R02617\tC00605  2,3-Dehydroacyl-CoA"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.3.1.16",
+			"children":[
+			{
+				"name":"R00391\tC00040  Acyl-CoA\tC00264  3-Oxoacyl-CoA",
+				"children":[
+				{
+					"name":"R00238\tC00024  Acetyl-CoA\tC00332  Acetoacetyl-CoA"
+				},
+				{
+					"name":"R00829\tC00091  Succinyl-CoA\tC02232  3-Oxoadipyl-CoA"
+				},
+				{
+					"name":"R00927\tC00100  Propanoyl-CoA\tC03344  2-Methylacetoacetyl-CoA"
+				},
+				{
+					"name":"R01177\tC00136  Butanoyl-CoA\tC05269  3-Oxohexanoyl-CoA"
+				},
+				{
+					"name":"R03778\tC01944  Octanoyl-CoA\tC05265  3-Oxodecanoyl-CoA"
+				},
+				{
+					"name":"R03858\tC01832  Lauroyl-CoA\tC05261  3-Oxotetradecanoyl-CoA"
+				},
+				{
+					"name":"R03991\tC02593  Tetradecanoyl-CoA\tC05259  3-Oxopalmitoyl-CoA"
+				},
+				{
+					"name":"R04742\tC05274  Decanoyl-CoA\tC05263  3-Oxododecanoyl-CoA"
+				},
+				{
+					"name":"R04747\tC05270  Hexanoyl-CoA\tC05267  3-Oxooctanoyl-CoA"
+				},
+				{
+					"name":"R05506\tC00512  Benzoyl-CoA\tC07118  Benzoylacetyl-CoA"
+				},
+				{
+					"name":"R05586\tC00527  Glutaryl-CoA\tC06715  3-Oxopimeloyl-CoA"
+				},
+				{
+					"name":"R07891\tC16331  OPC6-CoA\tC16330  3-Oxo-OPC8-CoA"
+				},
+				{
+					"name":"R07895\tC16335  OPC4-CoA\tC16334  3-Oxo-OPC6-CoA"
+				},
+				{
+					"name":"R07899\tC16339  (+)-7-Isojasmonic acid CoA\tC16338  3-Oxo-OPC4-CoA"
+				},
+				{
+					"name":"R07937\tC16169  (4Z,7Z,10Z,13Z,16Z,19Z)-Docosahexaenoyl-CoA\tC16376  (6Z,9Z,12Z,15Z,18Z,21Z)-3-Oxotetracosahexaenoyl-CoA"
+				},
+				{
+					"name":"R07953\tC16173  (4Z,7Z,10Z,13Z,16Z)-Docosapentaenoyl-CoA\tC16389  (6Z,9Z,12Z,15Z,18Z)-3-Oxotetracosapentaenoyl-CoA"
+				},
+				{
+					"name":"R08091\tC16470  5-Methylhex-4-enoyl-CoA\tC16466  7-Methyl-3-oxo-6-octenoyl-CoA"
+				},
+				{
+					"name":"R08095\tC03069  3-Methylcrotonyl-CoA\tC16471  5-Methyl-3-oxo-4-hexenoyl-CoA"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.3.1.20",
+			"children":[
+			{
+				"name":"R02251\tC00040  Acyl-CoA",
+				"children":[
+				{
+					"name":"R02694\tC00605  2,3-Dehydroacyl-CoA"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.3.1.22",
+			"children":[
+			{
+				"name":"R01368\tC00040  Acyl-CoA\tC00165  Diacylglycerol",
+				"children":[
+				{
+					"name":"R03838\tC00605  2,3-Dehydroacyl-CoA\tC00641  1,2-Diacyl-sn-glycerol"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.3.1.36",
+			"children":[
+			{
+				"name":"R02191\tC00405  D-Amino acid\tC03135  N-Acetyl-D-amino acid",
+				"children":[
+				{
+					"name":"R03903\tC02265  D-Phenylalanine\tC05620  N-Acetyl-D-phenylalanine"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.3.1.41",
+			"children":[
+			{
+				"name":"R02768\tC00173  Acyl-[acyl-carrier protein]\tC00685  3-Oxoacyl-[acyl-carrier protein]",
+				"children":[
+				{
+					"name":"R04355\tC03939  Acetyl-[acyl-carrier protein]\tC05744  Acetoacetyl-[acp]"
+				},
+				{
+					"name":"R04726\tC05223  Dodecanoyl-[acyl-carrier protein]\tC05759  3-Oxotetradecanoyl-[acp]"
+				},
+				{
+					"name":"R04952\tC05745  Butyryl-[acp]\tC05746  3-Oxohexanoyl-[acp]"
+				},
+				{
+					"name":"R04957\tC05749  Hexanoyl-[acp]\tC05750  3-Oxooctanoyl-[acp]"
+				},
+				{
+					"name":"R04960\tC05752  Octanoyl-[acp]\tC05753  3-Oxodecanoyl-[acp]"
+				},
+				{
+					"name":"R04963\tC05755  Decanoyl-[acp]\tC05756  3-Oxododecanoyl-[acp]"
+				},
+				{
+					"name":"R04968\tC05761  Tetradecanoyl-[acp]\tC05762  3-Oxohexadecanoyl-[acp]"
+				},
+				{
+					"name":"R07762\tC05764  Hexadecanoyl-[acp]\tC16219  3-Oxostearoyl-[acp]"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.3.1.51",
+			"children":[
+			{
+				"name":"R02241\tC00040  Acyl-CoA",
+				"children":[
+				{
+					"name":"R02760\tC00605  2,3-Dehydroacyl-CoA"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.3.1.57",
+			"children":[
+			{
+				"name":"R03910\tC03687  Alkane-alpha,omega-diamine\tC02297  N-Acetyldiamine",
+				"children":[
+				{
+					"name":"R01154\tC00134  Putrescine\tC02714  N-Acetylputrescine"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.3.1.69",
+			"children":[
+			{
+				"name":"R03017\tC00863  Monoterpenol\tC03707  Monoterpenol acetate ester",
+				"children":[
+				{
+					"name":"R08530\tC00400  (-)-Menthol\tC09870  (-)-Menthyl acetate"
+				},
+				{
+					"name":"R08531\tC00553  (+)-Neomenthol\tC16825  Neomenthyl acetate"
+				},
+				{
+					"name":"R08532\tC01765  (+)-Borneol\tC11338  Bornyl acetate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.3.1.73",
+			"children":[
+			{
+				"name":"R02693\tC00370  Sterol\tC01958  Steryl ester",
+				"children":[
+				{
+					"name":"R02692\tC00187  Cholesterol\tC02530  Cholesterol ester"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.3.1.76",
+			"children":[
+			{
+				"name":"R02366\tC00040  Acyl-CoA\tC02075  Retinyl ester",
+				"children":[
+				{
+					"name":"R02367\tC00154  Palmitoyl-CoA\tC02588  Retinyl palmitate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.3.1.81",
+			"children":[
+			{
+				"name":"R04348\tC03922  2-Deoxystreptamine antibiotic\tC04504  N3-Acetyl-2-deoxystreptamine antibiotic",
+				"children":[
+				{
+					"name":"R03767\tC01918  Gentamicin C\tC03297  N3-Acetylgentamicin C"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.3.1.87",
+			"children":[
+			{
+				"name":"R03760\tC15534  2-Arylethylamine\tC15535  N-Acetyl-2-arylethylamine",
+				"children":[
+				{
+					"name":"R02911\tC00780  Serotonin\tC00978  N-Acetylserotonin"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.3.1.116",
+			"children":[
+			{
+				"name":"R04356\tC03946  Flavonol 3-O-beta-D-glucoside\tC04385  Flavonol 3-O-(6-O-malonyl-beta-D-glucoside)",
+				"children":[
+				{
+					"name":"R06797\tC05623  Quercetin 3-O-glucoside\tC12638  Quercetin 3-O-(6-O-malonyl-beta-D-glucoside)"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.3.1.118",
+			"children":[
+			{
+				"name":"R08386\tC16685  N-Hydroxyarylamine\tC16684  N-Acetoxyarylamine",
+				"children":[
+				{
+					"name":"R04024\tC02720  Hydroxylaminobenzene\tC02709  N-(Acetyloxy)benzenamine"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.3.1.135",
+			"children":[
+			{
+				"name":"R04514\tC17276  Retinol-(cellular-retinol-binding-protein)\tC04680  Retinyl-ester-(cellular-retinol-binding-protein)",
+				"children":[
+				{
+					"name":"R08387\tC00473  Retinol\tC02075  Retinyl ester"
+				},
+				{
+					"name":"R08389\tC00899  11-cis-Retinol\tC04233  2-Acyl-sn-glycero-3-phosphocholine"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.3.1.152",
+			"children":[
+			{
+				"name":"R04411\tC01335  ROH\tC06357  Alkyl cinnamate",
+				"children":[
+				{
+					"name":"R04409\tC00132  Methanol\tC06358  Methyl cinnamate"
+				},
+				{
+					"name":"R04410\tC00469  Ethanol\tC06359  Ethyl cinnamate"
+				},
+				{
+					"name":"R05061\tC05979  Propane-1-ol\tC06360  Propyl cinnamate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.3.1.153",
+			"children":[
+			{
+				"name":"R05163\tC06361  Anthocyanidin-3,5-diglucoside\tC06363  Anthocyanidin 3-glucoside-5-hydroxycinnamoylglucoside\tC06362  Hydroxycinnamoyl-CoA",
+				"children":[
+				{
+					"name":"R07880\tC08725  Pelargonin\tC16349  Pelargonidin 3-O-beta-D-glucoside 5-O-(6-coumaroyl-beta-D-glucoside)\tC00223  p-Coumaroyl-CoA"
+				},
+				{
+					"name":"R07882\tC08639  Cyanin\tC16350  Cyanidin 3-O-beta-D-glucoside 5-O-(6-coumaroyl-beta-D-glucoside)\tC00223  p-Coumaroyl-CoA"
+				},
+				{
+					"name":"R07883\tC16312  Delphin\tC16351  Delphinidin 3-O-beta-D-glucoside 5-O-(6-coumaroyl-beta-D-glucoside)\tC00223  p-Coumaroyl-CoA"
+				},
+				{
+					"name":"R07930\tC08725  Pelargonin\tC16371  Pelargonidin 3-glucoside 5-caffeoylglucoside\tC00323  Caffeoyl-CoA"
+				},
+				{
+					"name":"R07931\tC08639  Cyanin\tC16372  Cyanidin 3-glucoside 5-caffeoylglucoside\tC00323  Caffeoyl-CoA"
+				},
+				{
+					"name":"R07944\tC16312  Delphin\tC16313  Delphinidin 3-glucoside 5-caffoyl-glucoside\tC00323  Caffeoyl-CoA"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.3.1.171",
+			"children":[
+			{
+				"name":"R07255\tC15539  Anthocyanidin 3-O-beta-D-glucoside\tC15540  Anthocyanidin 3-O-(6-O-malonyl-beta-D-glucoside)",
+				"children":[
+				{
+					"name":"R06801\tC12137  Pelargonidin 3-O-glucoside\tC12642  Pelargonidin 3-O-(6-O-malonyl-beta-D-glucoside)"
+				},
+				{
+					"name":"R06817\tC08604  Chrysanthemin\tC12643  Cyanidin 3-O-(6-O-malonyl-beta-D-glucoside)"
+				},
+				{
+					"name":"R07938\tC12138  Delphinidin 3-O-glucoside\tC16301  Delphinidin 3-O-(6''-O-malonyl)-beta-D-glucoside"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.3.1.176",
+			"children":[
+			{
+				"name":"R03719\tC01794  Choloyl-CoA\tC05467  3alpha,7alpha,12alpha-Trihydroxy-5beta-24-oxocholestanoyl-CoA",
+				"children":[
+				{
+					"name":"R04811\tC05337  Chenodeoxycholoyl-CoA\tC05449  3alpha,7alpha-Dihydroxy-5beta-24-oxocholestanoyl-CoA"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.3.1.184",
+			"children":[
+			{
+				"name":"R08940\tC00173  Acyl-[acyl-carrier protein]\tC18049  N-Acyl-L-homoserine lactone",
+				"children":[
+				{
+					"name":"R08939\tC05745  Butyryl-[acp]\tC11837  N-Butyryl-L-homoserine lactone"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.3.1.185",
+			"children":[
+			{
+				"name":"R08712\tC00040  Acyl-CoA\tC02089  O-Acyltropine",
+				"children":[
+				{
+					"name":"R06735\tC00024  Acetyl-CoA\tC12452  Acetyltropine"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.3.1.186",
+			"children":[
+			{
+				"name":"R08713\tC02066  Pseudotropine\tC17378  O-Acylpseudotropine",
+				"children":[
+				{
+					"name":"R06736\tC02066  Pseudotropine\tC12453  Acetylpseudotropine"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.3.1.215",
+			"children":[
+			{
+				"name":"R10237\tC15539  Anthocyanidin 3-O-beta-D-glucoside\tC20461  Anthocyanidin 3-O-[6-O-(4-hydroxycinnamoyl)-beta-D-glucoside]",
+				"children":[
+				{
+					"name":"R06544\tC08604  Chrysanthemin\tC12095  Cyanidin 3-O-(6-O-p-coumaroyl)glucoside"
+				},
+				{
+					"name":"R07927\tC12137  Pelargonidin 3-O-glucoside\tC16368  Pelargonidin 3-(6-p-coumaroyl)glucoside"
+				},
+				{
+					"name":"R07929\tC12138  Delphinidin 3-O-glucoside\tC16370  Delphinidin 3-(6-p-coumaroyl)glucoside"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.3.2.2",
+			"children":[
+			{
+				"name":"R04159\tC03193  (5-L-Glutamyl)-peptide\tC00045  Amino acid\tC00012  Peptide\tC03363  5-L-Glutamyl amino acid",
+				"children":[
+				{
+					"name":"R01262\tC00051  Glutathione\tC00151  L-Amino acid\tC01419  Cys-Gly\tC03740  (5-L-Glutamyl)-L-amino acid"
+				},
+				{
+					"name":"R01687\tC00245  Taurine\tC05844  5-L-Glutamyl-taurine"
+				},
+				{
+					"name":"R03867\tC02166  Leukotriene C4\tC05951  Leukotriene D4"
+				},
+				{
+					"name":"R04935\tC05689  Se-Methyl-L-selenocysteine\tC05695  gamma-Glutamyl-Se-methylselenocysteine"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.1.10",
+			"children":[
+			{
+				"name":"R05140\tC00031  D-Glucose",
+				"children":[
+				{
+					"name":"R06079\tC00031  D-Glucose"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.1.13",
+			"children":[
+			{
+				"name":"R07256\tC15541  NDP-glucose\tC00454  NDP",
+				"children":[
+				{
+					"name":"R00806\tC00029  UDP-glucose\tC00015  UDP"
+				},
+				{
+					"name":"R06036\tG10608  UDP-D-glucose\tG10619  UDP"
+				},
+				{
+					"name":"R08676\tC00498  ADP-glucose\tC00008  ADP"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.1.15",
+			"children":[
+			{
+				"name":"R00836\tC00092  D-Glucose 6-phosphate",
+				"children":[
+				{
+					"name":"R02737\tC00668  alpha-D-Glucose 6-phosphate"
+				},
+				{
+					"name":"R06226\tC00668  alpha-D-Glucose 6-phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.1.17",
+			"children":[
+			{
+				"name":"R09428\tC19645  Acceptor\tC19646  Acceptor beta-D-glucuronoside",
+				"children":[
+				{
+					"name":"R01383\tC01335  ROH\tC03033  beta-D-Glucuronoside"
+				},
+				{
+					"name":"R02358\tC00468  Estrone\tC11133  Estrone glucuronide"
+				},
+				{
+					"name":"R02389\tC00486  Bilirubin\tC05787  Bilirubin beta-diglucuronide"
+				},
+				{
+					"name":"R02478\tC00523  Androsterone\tC11135  Androsterone glucuronide"
+				},
+				{
+					"name":"R02502\tC00535  Testosterone\tC11134  Testosterone glucuronide"
+				},
+				{
+					"name":"R02902\tC00777  Retinoate\tC11061  all-trans-Retinoyl-beta-glucuronide"
+				},
+				{
+					"name":"R03091\tC00951  Estradiol-17beta\tC05503  Estradiol-17beta 3-glucuronide"
+				},
+				{
+					"name":"R04352\tC04373  Etiocholanolone\tC11136  Etiocholan-3alpha-ol-17-one 3-glucuronide"
+				},
+				{
+					"name":"R04353\tC05299  2-Methoxyestrone\tC11132  2-Methoxyestrone 3-glucuronide"
+				},
+				{
+					"name":"R04354\tC05302  2-Methoxy-17beta-estradiol\tC11131  2-Methoxy-estradiol-17beta 3-glucuronide"
+				},
+				{
+					"name":"R04683\tC05141  Estriol\tC05504  16-Glucuronide-estriol"
+				},
+				{
+					"name":"R07106\tC07490  Trichloroethanol\tC14869  Trichloroethanol glucuronide"
+				},
+				{
+					"name":"R08259\tC11173  SN-38\tC11376  SN38 glucuronide"
+				},
+				{
+					"name":"R08261\tC06174  Codeine\tC16577  Codeine-6-glucuronide"
+				},
+				{
+					"name":"R08262\tC01516  Morphine\tC16643  Morphine-3-glucuronide"
+				},
+				{
+					"name":"R08263\tC01516  Morphine\tC16578  Morphine-6-glucuronide"
+				},
+				{
+					"name":"R08615\tC00001  H2O\tC00191  D-Glucuronate"
+				},
+				{
+					"name":"R09426\tC19574  4-(Methylnitrosamino)-1-(3-pyridyl)-1-butanol\tC19605  4-(Methylnitrosamino)-1-(3-pyridyl)-1-butanol glucuronide"
+				},
+				{
+					"name":"R09427\tC19574  4-(Methylnitrosamino)-1-(3-pyridyl)-1-butanol\tC19606  NNAL-N-glucuronide"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.1.37",
+			"children":[
+			{
+				"name":"R04548\tC04648  alpha-L-Fucosyl-1,2-beta-D-galactoside\tC04866  alpha-D-Galactosyl-(1,3)-[alpha-L-fucosyl-(1,2)]-D-galactoside",
+				"children":[
+				{
+					"name":"R06029\tG00055  IV2Fuc-nLc4Cer\tG00052  Type II B antigen"
+				},
+				{
+					"name":"R06168\tG00044  IV2Fuc-Lc4Cer\tG00039  Type IB glycolipid"
+				},
+				{
+					"name":"R06190\tG00071  VI2Fuc-nLc6"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.1.38",
+			"children":[
+			{
+				"name":"R04495\tC04502  N-Acetyl-beta-D-glucosaminyl-glycopeptide\tC04818  beta-D-Galactosyl-1,4-N-acetyl-beta-D-glucosaminylglycopeptide",
+				"children":[
+				{
+					"name":"R05989"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.1.41",
+			"children":[
+			{
+				"name":"R02183\tC00403  Polypeptide\tC04387  N-Acetyl-alpha-D-galactosaminyl-polypeptide",
+				"children":[
+				{
+					"name":"R05907\tC02189  [Protein]-L-serine\tG00023  Tn antigen"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.1.47",
+			"children":[
+			{
+				"name":"R01500\tC00195  N-Acylsphingosine\tC02686  Galactosylceramide",
+				"children":[
+				{
+					"name":"R04322\tC03823  2-(2-Hydroxyacyl)sphingosine\tC04708  1-(beta-D-Galactosyl)-2-(2-hydroxyacyl)sphingosine"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.1.65",
+			"children":[
+			{
+				"name":"R04553\tC04656  1,3-beta-D-Galactosyl-N-acetyl-D-glucosaminyl-R\tC04850  1,3-beta-D-Galactosyl-(alpha-1,4-L-fucosyl)-N-acetyl-D-glucosaminyl-R",
+				"children":[
+				{
+					"name":"R06155\tG00037  Lc4Cer\tG00046  Fuc-Lc4Cer"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.1.68",
+			"children":[
+			{
+				"name":"R05988",
+				"children":[
+				{
+					"name":"R09319"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.1.69",
+			"children":[
+			{
+				"name":"R04081\tC02900  beta-D-Galactosyl-R",
+				"children":[
+				{
+					"name":"R05968\tG00097  Galactosylgloboside\tG00099  Globo-H"
+				},
+				{
+					"name":"R06024\tG00050  Paragloboside\tG00055  IV2Fuc-nLc4Cer"
+				},
+				{
+					"name":"R06031\tG00068  nLc7Cer"
+				},
+				{
+					"name":"R06035\tG00067  nLc6Cer\tG00071  VI2Fuc-nLc6"
+				},
+				{
+					"name":"R06041"
+				},
+				{
+					"name":"R06085\tG00078  iso-nLc8Cer\tG04561  Monofucosyllactoisooctaosylceramide"
+				},
+				{
+					"name":"R06086\tG04561  Monofucosyllactoisooctaosylceramide"
+				},
+				{
+					"name":"R06089\tG00078  iso-nLc8Cer\tG10511  Monofucosyllactoisooctaosylceramide"
+				},
+				{
+					"name":"R06090\tG10511  Monofucosyllactoisooctaosylceramide"
+				},
+				{
+					"name":"R06156\tG00037  Lc4Cer\tG00044  IV2Fuc-Lc4Cer"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.1.87",
+			"children":[
+			{
+				"name":"R02791\tC00694  beta-D-Galactosyl-(1->4)-N-acetyl-beta-D-glucosaminyl-R\tC04855  alpha-D-Galactosyl-1,3-beta-D-galactosyl-1,4-N-acetyl-D-glucosaminyl-R",
+				"children":[
+				{
+					"name":"R04531\tC00611  N-Acetyllactosamine\tC04847  alpha-D-Galactosyl-1,3-beta-D-galactosyl-1,4-N-acetyl-D-glucosamine"
+				},
+				{
+					"name":"R05978\tG00050  Paragloboside\tG00051  nLc5Cer"
+				},
+				{
+					"name":"R06145\tG00246  N-Acetyllactosamine\tG00304  Linear B type 2 trisaccharide"
+				},
+				{
+					"name":"R06169\tG00037  Lc4Cer"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.1.91",
+			"children":[
+			{
+				"name":"R03267\tC01495  Flavonol\tC03946  Flavonol 3-O-beta-D-glucoside",
+				"children":[
+				{
+					"name":"R02158\tC00389  Quercetin\tC05623  Quercetin 3-O-glucoside"
+				},
+				{
+					"name":"R06611\tC05903  Kaempferol\tC12249  Kaempferol 3-O-glucoside"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.1.115",
+			"children":[
+			{
+				"name":"R03797\tC02003  Anthocyanidin",
+				"children":[
+				{
+					"name":"R06534\tC05904  Pelargonidin\tC12137  Pelargonidin 3-O-glucoside"
+				},
+				{
+					"name":"R06535\tC05905  Cyanidin\tC08604  Chrysanthemin"
+				},
+				{
+					"name":"R06536\tC05908  Delphinidin\tC12138  Delphinidin 3-O-glucoside"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.1.149",
+			"children":[
+			{
+				"name":"R02789\tC00694  beta-D-Galactosyl-(1->4)-N-acetyl-beta-D-glucosaminyl-R\tC04890  N-Acetyl-beta-D-glucosaminyl-1,3-beta-D-galactosyl-1,4-N-acetyl-D-glucosaminyl-R",
+				"children":[
+				{
+					"name":"R04659\tC04922  beta-D-Galactosyl-(1->4)-N-acetyl-beta-D-glucosaminyl-(1->3)-beta-D-galactosyl-(1->4)-beta-D-glucosyl-(11)-ceramide\tC04938  N-Acetyl-D-glucosaminyl-1,3-beta-D-galactosyl-1,4-N-acetyl-beta-D-glucosaminyl-1,3-beta-D-galactosyl-1,4-beta-D-glucosylceramide"
+				},
+				{
+					"name":"R05974\tG00067  nLc6Cer\tG00068  nLc7Cer"
+				},
+				{
+					"name":"R05975\tG00050  Paragloboside\tG00066  nLc5Cer"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.1.150",
+			"children":[
+			{
+				"name":"R11879\tC21742  beta-D-Gal-(1->4)-beta-D-GlcNAc-(1->3)-beta-D-Gal-(1->4)-beta-D-GlcNAc-R\tC21743  beta-D-Gal-(1->4)-beta-D-GlcNAc-(1->3)-[beta-D-GlcNAc-(1->6)]-beta-D-Gal-(1->4)-beta-D-GlcNAc-R",
+				"children":[
+				{
+					"name":"R06189\tG00067  nLc6Cer"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.1.152",
+			"children":[
+			{
+				"name":"R03519\tC04657  1,4-beta-D-Galactosyl-N-acetyl-D-glucosaminyl-R\tC01311  1,4-beta-D-Galactosyl-(alpha-1,3-L-fucosyl)-N-acetyl-D-glucosaminyl-R",
+				"children":[
+				{
+					"name":"R05904"
+				},
+				{
+					"name":"R06025\tG00050  Paragloboside\tG00060  III3Fuc-nLc4Cer"
+				},
+				{
+					"name":"R06038\tG00067  nLc6Cer\tG00089  V3Fuc-nLc6Cer"
+				},
+				{
+					"name":"R06039\tG00069  nLc8Cer"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.1.159",
+			"children":[
+			{
+				"name":"R03880\tC03946  Flavonol 3-O-beta-D-glucoside\tC04194  Flavonol 3-O-[alpha-L-rhamnosyl-(1->6)-beta-D-glucoside]",
+				"children":[
+				{
+					"name":"R04900\tC05623  Quercetin 3-O-glucoside\tC05625  Rutin"
+				},
+				{
+					"name":"R12046\tC12249  Kaempferol 3-O-glucoside\tC21833  Kaempferol-3-O-rutinoside"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.1.170",
+			"children":[
+			{
+				"name":"R07332\tC00799  Isoflavone\tC04074  Isoflavone 7-O-beta-D-glucoside",
+				"children":[
+				{
+					"name":"R02932\tC06563  Genistein\tC09126  Genistein 7-O-beta-D-glucoside"
+				},
+				{
+					"name":"R06795\tC00814  Biochanin A\tC05376  Biochanin A-beta-D-glucoside"
+				},
+				{
+					"name":"R07718\tC14536  Glycitein\tC16195  Glycitin"
+				},
+				{
+					"name":"R07720\tC10208  Daidzein\tC10216  Daidzin"
+				},
+				{
+					"name":"R07729\tC00858  Formononetin\tC10509  Ononin"
+				},
+				{
+					"name":"R07740\tC10503  Medicarpin\tC16223  (-)-Medicocarpin"
+				},
+				{
+					"name":"R07753\tC10502  (-)-Maackiain\tC10538  Trifolirhizin"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.1.185",
+			"children":[
+			{
+				"name":"R07333\tC00766  Flavanone\tC04007  Flavanone 7-O-beta-D-glucoside",
+				"children":[
+				{
+					"name":"R02897\tC00509  Naringenin\tC09099  Naringenin 7-O-beta-D-glucoside"
+				},
+				{
+					"name":"R08021\tC01709  Hesperetin\tC16422  Hesperetin 7-O-glucoside"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.1.195",
+			"children":[
+			{
+				"name":"R12045\tC21871  (E)-omega-(Methylthio)alkyl-thiohydroximate\tC21872  Aliphatic desulfoglucosinolate",
+				"children":[
+				{
+					"name":"R08668\tC17243  4-Methylthiobutylthiohydroximate\tC17244  3-Methylthiopropyl-desulfoglucosinolate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.1.214",
+			"children":[
+			{
+				"name":"R06015",
+				"children":[
+				{
+					"name":"R09318"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.1.224",
+			"children":[
+			{
+				"name":"R07334\tC15573  beta-D-Glucuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminylproteoglycan\tC15574  N-Acetyl-alpha-D-glucosaminyl-(1->4)-beta-D-glucuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminylproteoglycan",
+				"children":[
+				{
+					"name":"R05936"
+				},
+				{
+					"name":"R10139"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.1.225",
+			"children":[
+			{
+				"name":"R07335\tC15575  N-Acetyl-alpha-D-glucosaminyl-(1->4)-beta-D-glucuronosylproteoglycan\tC15576  beta-D-Glucuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-(1->4)-beta-D-glucuronosylproteoglycan",
+				"children":[
+				{
+					"name":"R05935"
+				},
+				{
+					"name":"R10138"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.1.236",
+			"children":[
+			{
+				"name":"R07337\tC04007  Flavanone 7-O-beta-D-glucoside\tC15579  Flavanone 7-O-[alpha-L-rhamnosyl-(1->2)-beta-D-glucoside]",
+				"children":[
+				{
+					"name":"R06820\tC09099  Naringenin 7-O-beta-D-glucoside\tC09789  Naringin"
+				},
+				{
+					"name":"R08022\tC16422  Hesperetin 7-O-glucoside\tC09806  Neohesperidin"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.1.237",
+			"children":[
+			{
+				"name":"R07338\tC01495  Flavonol\tC15580  Flavonol 7-O-beta-D-glucoside",
+				"children":[
+				{
+					"name":"R06810\tC00389  Quercetin\tC12639  Quercimeritrin"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.1.238",
+			"children":[
+			{
+				"name":"R07266\tC15549  Anthocyanin\tC15550  Anthocyanin 3'-O-beta-D-glucoside",
+				"children":[
+				{
+					"name":"R07912\tC16312  Delphin\tC16314  Delphinidin 3,5,3'-triglucoside"
+				},
+				{
+					"name":"R07913\tC16301  Delphinidin 3-O-(6''-O-malonyl)-beta-D-glucoside\tC16304  Delphinidin 3-O-(6''-O-malonyl)-beta-glucoside-3'-O-beta-glucoside"
+				},
+				{
+					"name":"R07923\tC16313  Delphinidin 3-glucoside 5-caffoyl-glucoside\tC16354  Albireodelphin"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.1.239",
+			"children":[
+			{
+				"name":"R07339\tC03946  Flavonol 3-O-beta-D-glucoside\tC15581  Flavonol 3-O-beta-D-glucosyl-(1->2)-beta-D-glucoside",
+				"children":[
+				{
+					"name":"R06804\tC12249  Kaempferol 3-O-glucoside\tC12634  Kaempferol 3-O-beta-D-glucosyl-(1->2)-beta-D-glucoside"
+				},
+				{
+					"name":"R06812\tC05623  Quercetin 3-O-glucoside\tC12667  Quercetin 3-O-beta-D-glucosyl-(1->2)-beta-D-glucoside"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.1.240",
+			"children":[
+			{
+				"name":"R07340\tC15581  Flavonol 3-O-beta-D-glucosyl-(1->2)-beta-D-glucoside\tC15582  Flavonol 3-O-beta-D-glucosyl-(1->2)-beta-D-glucosyl-(1->2)-beta-D-glucoside",
+				"children":[
+				{
+					"name":"R06805\tC12634  Kaempferol 3-O-beta-D-glucosyl-(1->2)-beta-D-glucoside\tC12635  Kaempferol 3-sophorotrioside"
+				},
+				{
+					"name":"R06813\tC12667  Quercetin 3-O-beta-D-glucosyl-(1->2)-beta-D-glucoside\tC12668  Quercetin 3-O-beta-D-glucosyl-(1->2)-beta-D-glucosyl-(1->2)-beta-D-glucoside"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.1.242",
+			"children":[
+			{
+				"name":"R07261\tC15541  NDP-glucose\tC00454  NDP",
+				"children":[
+				{
+					"name":"R00292\tC00029  UDP-glucose\tC00015  UDP"
+				},
+				{
+					"name":"R02421\tC00498  ADP-glucose\tC00008  ADP"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.1.245",
+			"children":[
+			{
+				"name":"R10525\tC15541  NDP-glucose\tC00031  D-Glucose\tC01083  alpha,alpha-Trehalose\tC00454  NDP",
+				"children":[
+				{
+					"name":"R08946\tC00498  ADP-glucose\tC00031  D-Glucose\tC01083  alpha,alpha-Trehalose\tC00008  ADP"
+				},
+				{
+					"name":"R11306\tC00029  UDP-glucose\tC00031  D-Glucose\tC01083  alpha,alpha-Trehalose\tC00015  UDP"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.1.295",
+			"children":[
+			{
+				"name":"R10265\tC20467  Anthocyanidin 3-O-beta-D-sambubioside\tC20474  Anthocyanidin 5-O-beta-D-glucoside 3-O-beta-D-sambubioside",
+				"children":[
+				{
+					"name":"R10293\tC20489  Pelargonidin 3-O-beta-D-sambubioside\tC20492  Pelargonidin 5-O-beta-D-glucoside 3-O-beta-D-sambubioside"
+				},
+				{
+					"name":"R10294\tC20490  Cyanidin 3-O-beta-D-sambubioside\tC20493  Cyanidin 5-O-beta-D-glucoside 3-O-beta-D-sambubioside"
+				},
+				{
+					"name":"R10295\tC20491  Delphinidin 3-O-beta-D-sambubioside\tC20494  Delphinidin 5-O-beta-D-glucoside 3-O-beta-D-sambubioside"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.1.297",
+			"children":[
+			{
+				"name":"R10263\tC15539  Anthocyanidin 3-O-beta-D-glucoside\tC20471  Anthocyanidin 3-O-sophoroside",
+				"children":[
+				{
+					"name":"R07877\tC12137  Pelargonidin 3-O-glucoside\tC16305  Pelargonidin 3-O-sophoroside"
+				},
+				{
+					"name":"R07878\tC08604  Chrysanthemin\tC16306  Cyanidin 3-O-sophoroside"
+				},
+				{
+					"name":"R07879\tC12138  Delphinidin 3-O-glucoside\tC16307  Delphinidin 3-O-sophoroside"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.1.298",
+			"children":[
+			{
+				"name":"R10262\tC15539  Anthocyanidin 3-O-beta-D-glucoside\tC06361  Anthocyanidin-3,5-diglucoside",
+				"children":[
+				{
+					"name":"R06546\tC08604  Chrysanthemin\tC08639  Cyanin"
+				},
+				{
+					"name":"R07874\tC12137  Pelargonidin 3-O-glucoside\tC08725  Pelargonin"
+				},
+				{
+					"name":"R07911\tC12138  Delphinidin 3-O-glucoside\tC16312  Delphin"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.2.1",
+			"children":[
+			{
+				"name":"R08368\tC15586  N-D-Ribosylpurine\tC15587  Purine",
+				"children":[
+				{
+					"name":"R01561\tC00212  Adenosine\tC00147  Adenine"
+				},
+				{
+					"name":"R01863\tC00294  Inosine\tC00262  Hypoxanthine"
+				},
+				{
+					"name":"R02147\tC00387  Guanosine\tC00242  Guanine"
+				},
+				{
+					"name":"R02297\tC01762  Xanthosine\tC00385  Xanthine"
+				}
+				]
+			},
+			{
+				"name":"R10244\tC20463  Purine deoxyribonucleoside\tC15587  Purine",
+				"children":[
+				{
+					"name":"R01969\tC00330  Deoxyguanosine\tC00242  Guanine"
+				},
+				{
+					"name":"R02557\tC00559  Deoxyadenosine\tC00147  Adenine"
+				},
+				{
+					"name":"R02748\tC05512  Deoxyinosine\tC00262  Hypoxanthine"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.2.6",
+			"children":[
+			{
+				"name":"R04168\tC00701  Base",
+				"children":[
+				{
+					"name":"R02806\tC00214  Thymidine\tC00178  Thymine"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.2.35",
+			"children":[
+			{
+				"name":"R03268\tC15555  Flavonol 3-O-D-glycoside\tC04069  Flavonol 3-O-D-xylosylglycoside",
+				"children":[
+				{
+					"name":"R06811\tC05625  Rutin\tC10175  Quercetin 3-(2G-xylosylrutinoside)"
+				},
+				{
+					"name":"R06814\tC05623  Quercetin 3-O-glucoside\tC12637  Quercetin 3-O-[beta-D-xylosyl-(1->2)-beta-D-glucoside]"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.2.51",
+			"children":[
+			{
+				"name":"R10256\tC15539  Anthocyanidin 3-O-beta-D-glucoside\tC20467  Anthocyanidin 3-O-beta-D-sambubioside",
+				"children":[
+				{
+					"name":"R10290\tC12137  Pelargonidin 3-O-glucoside\tC20489  Pelargonidin 3-O-beta-D-sambubioside"
+				},
+				{
+					"name":"R10291\tC08604  Chrysanthemin\tC20490  Cyanidin 3-O-beta-D-sambubioside"
+				},
+				{
+					"name":"R10292\tC12138  Delphinidin 3-O-glucoside\tC20491  Delphinidin 3-O-beta-D-sambubioside"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.99.3",
+			"children":[
+			{
+				"name":"R05911\tG00023  Tn antigen\tG00035  Sialyl-Tn antigen",
+				"children":[
+				{
+					"name":"R05914"
+				},
+				{
+					"name":"R06273"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.99.8",
+			"children":[
+			{
+				"name":"R04564\tC04683  alpha-N-Acetylneuraminyl-2,3-beta-D-galactosyl-R\tC04887  alpha-N-Acetylneuraminyl-2,8-alpha-N-acetylneuraminyl-2,3-beta-D-galactosyl-R",
+				"children":[
+				{
+					"name":"R04583\tC04730  GM3\tC06133  GD3"
+				},
+				{
+					"name":"R05940\tG00108  GM3\tG00113  GD3"
+				},
+				{
+					"name":"R06032\tG00062  Sialyl-3-paragloboside\tG00064  3',8'-LD1"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.4.99.18",
+			"children":[
+			{
+				"name":"R04216\tC04213  Dolichyl diphosphooligosaccharide\tC11572  Glycoprotein with the oligosaccharide chain attached by N-glycosyl linkage to protein L-asparagine",
+				"children":[
+				{
+					"name":"R05976"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.5.1.18",
+			"children":[
+			{
+				"name":"R03522\tC01322  RX\tC02320  R-S-Glutathione",
+				"children":[
+				{
+					"name":"R07093\tC14859  Chloroacetyl chloride\tC01327  Hydrochloric acid\tC14864  S-(2-Chloroacetyl)glutathione"
+				},
+				{
+					"name":"R07094\tC14865  2-(S-Glutathionyl)acetyl chloride\tC01327  Hydrochloric acid\tC14863  2-(S-Glutathionyl)acetyl glutathione"
+				},
+				{
+					"name":"R07100\tC06790  Trichloroethene\tC01327  Hydrochloric acid\tC14868  S-(1,2-Dichlorovinyl)glutathione"
+				},
+				{
+					"name":"R07113\tC11088  1,2-Dibromoethane\tC13645  Hydrobromic acid\tC14874  Glutathione episulfonium ion"
+				},
+				{
+					"name":"R07116\tC14870  2-Bromoacetaldehyde\tC13645  Hydrobromic acid\tC14871  S-(Formylmethyl)glutathione"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.5.1.39",
+			"children":[
+			{
+				"name":"R05000\tC05847  all-trans-Polyprenyl diphosphate\tC05848  4-Hydroxy-3-polyprenylbenzoate",
+				"children":[
+				{
+					"name":"R05615\tC04146  all-trans-Octaprenyl diphosphate\tC05809  3-Octaprenyl-4-hydroxybenzoate"
+				},
+				{
+					"name":"R05616\tC01230  all-trans-Hexaprenyl diphosphate\tC13425  3-Hexaprenyl-4-hydroxybenzoate"
+				},
+				{
+					"name":"R07273\tC04145  all-trans-Nonaprenyl diphosphate\tC03885  3-Nonaprenyl-4-hydroxybenzoate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.5.1.57",
+			"children":[
+			{
+				"name":"R02769\tC01200  N-Acylneuraminate 9-phosphate\tC00686  N-Acyl-D-mannosamine 6-phosphate",
+				"children":[
+				{
+					"name":"R04435\tC06241  N-Acetylneuraminate 9-phosphate\tC04257  N-Acetyl-D-mannosamine 6-phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.5.1.84",
+			"children":[
+			{
+				"name":"R09250",
+				"children":[
+				{
+					"name":"R07267"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.5.1.85",
+			"children":[
+			{
+				"name":"R09251",
+				"children":[
+				{
+					"name":"R07267"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.5.1.135",
+			"children":[
+			{
+				"name":"R11497\tC21368  GDP-valienol\tC00035  GDP",
+				"children":[
+				{
+					"name":"R11239\tC21216  Validamine 7-phosphate\tC00454  NDP"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.6.1.12",
+			"children":[
+			{
+				"name":"R01261\tC00161  2-Oxo acid\tC00151  L-Amino acid",
+				"children":[
+				{
+					"name":"R00400\tC00036  Oxaloacetate\tC00049  L-Aspartate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.6.1.13",
+			"children":[
+			{
+				"name":"R01343\tC00161  2-Oxo acid\tC00151  L-Amino acid",
+				"children":[
+				{
+					"name":"R00667\tC00026  2-Oxoglutarate\tC00025  L-Glutamate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.6.1.23",
+			"children":[
+			{
+				"name":"R03266\tC03079  4-Hydroxy-L-glutamate\tC01127  4-Hydroxy-2-oxoglutarate",
+				"children":[
+				{
+					"name":"R05052\tC05947  L-erythro-4-Hydroxyglutamate\tC05946  (4R)-4-Hydroxy-2-oxoglutarate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.6.1.29",
+			"children":[
+			{
+				"name":"R07275\tC02896  alpha,omega-Diamine\tC02903  omega-Aminoaldehyde",
+				"children":[
+				{
+					"name":"R01155\tC00134  Putrescine\tC00555  4-Aminobutyraldehyde"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.6.1.57",
+			"children":[
+			{
+				"name":"R03120\tC01021  Aromatic amino acid\tC00972  Aromatic oxo acid",
+				"children":[
+				{
+					"name":"R00694\tC00079  L-Phenylalanine\tC00166  Phenylpyruvate"
+				},
+				{
+					"name":"R00734\tC00082  L-Tyrosine\tC01179  3-(4-Hydroxyphenyl)pyruvate"
+				},
+				{
+					"name":"R10845\tC20895  (2S,3S)-3-Methylphenylalanine\tC20646  (3S)-2-Oxo-3-phenylbutanoate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.7.1.1",
+			"children":[
+			{
+				"name":"R02848\tC00738  D-Hexose\tC02965  D-Hexose 6-phosphate",
+				"children":[
+				{
+					"name":"R00299\tC00031  D-Glucose\tC00092  D-Glucose 6-phosphate"
+				},
+				{
+					"name":"R00760\tC00095  D-Fructose\tC00085  D-Fructose 6-phosphate"
+				},
+				{
+					"name":"R00867\tC00095  D-Fructose\tC05345  beta-D-Fructose 6-phosphate"
+				},
+				{
+					"name":"R01326\tC00159  D-Mannose\tC00275  D-Mannose 6-phosphate"
+				},
+				{
+					"name":"R01600\tC00221  beta-D-Glucose\tC01172  beta-D-Glucose 6-phosphate"
+				},
+				{
+					"name":"R01786\tC00267  alpha-D-Glucose\tC00668  alpha-D-Glucose 6-phosphate"
+				},
+				{
+					"name":"R01961\tC00329  D-Glucosamine\tC00352  D-Glucosamine 6-phosphate"
+				},
+				{
+					"name":"R02865\tC00794  D-Sorbitol\tC01096  Sorbitol 6-phosphate"
+				},
+				{
+					"name":"R03920\tC02336  beta-D-Fructose\tC05345  beta-D-Fructose 6-phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.7.1.2",
+			"children":[
+			{
+				"name":"R00299\tC00031  D-Glucose\tC00092  D-Glucose 6-phosphate",
+				"children":[
+				{
+					"name":"R01600\tC00221  beta-D-Glucose\tC01172  beta-D-Glucose 6-phosphate"
+				},
+				{
+					"name":"R01786\tC00267  alpha-D-Glucose\tC00668  alpha-D-Glucose 6-phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.7.1.4",
+			"children":[
+			{
+				"name":"R00760\tC00095  D-Fructose\tC00085  D-Fructose 6-phosphate",
+				"children":[
+				{
+					"name":"R00867\tC05345  beta-D-Fructose 6-phosphate"
+				},
+				{
+					"name":"R03920\tC02336  beta-D-Fructose\tC05345  beta-D-Fructose 6-phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.7.1.11",
+			"children":[
+			{
+				"name":"R00756\tC00085  D-Fructose 6-phosphate\tC00354  D-Fructose 1,6-bisphosphate",
+				"children":[
+				{
+					"name":"R04779\tC05345  beta-D-Fructose 6-phosphate\tC05378  beta-D-Fructose 1,6-bisphosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.7.1.60",
+			"children":[
+			{
+				"name":"R02650\tC00625  N-Acyl-D-mannosamine\tC00686  N-Acyl-D-mannosamine 6-phosphate",
+				"children":[
+				{
+					"name":"R02705\tC00645  N-Acetyl-D-mannosamine\tC04257  N-Acetyl-D-mannosamine 6-phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.7.1.61",
+			"children":[
+			{
+				"name":"R03841\tC00738  D-Hexose\tC02672  D-Hexose phosphate",
+				"children":[
+				{
+					"name":"R08404\tC00031  D-Glucose\tC00092  D-Glucose 6-phosphate"
+				},
+				{
+					"name":"R08405\tC00159  D-Mannose\tC00275  D-Mannose 6-phosphate"
+				},
+				{
+					"name":"R08406\tC00095  D-Fructose\tC00085  D-Fructose 6-phosphate"
+				},
+				{
+					"name":"R08407\tC00095  D-Fructose\tC01094  D-Fructose 1-phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.7.1.62",
+			"children":[
+			{
+				"name":"R03148\tC01171  alpha-D-Hexose 1-phosphate",
+				"children":[
+				{
+					"name":"R08514\tC00031  D-Glucose\tC00103  D-Glucose 1-phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.7.1.63",
+			"children":[
+			{
+				"name":"R02185\tC00031  D-Glucose\tC00092  D-Glucose 6-phosphate",
+				"children":[
+				{
+					"name":"R02187\tC00221  beta-D-Glucose\tC01172  beta-D-Glucose 6-phosphate"
+				},
+				{
+					"name":"R02189\tC00267  alpha-D-Glucose\tC00668  alpha-D-Glucose 6-phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.7.1.74",
+			"children":[
+			{
+				"name":"R02321\tC00201  Nucleoside triphosphate\tC00454  NDP",
+				"children":[
+				{
+					"name":"R01666\tC00002  ATP\tC00008  ADP"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.7.1.77",
+			"children":[
+			{
+				"name":"R07341\tC00215  Nucleotide",
+				"children":[
+				{
+					"name":"R02934\tC01117  Nucleoside 5'-phosphate"
+				},
+				{
+					"name":"R05304\tC03419  Nucleoside 3'-phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.7.1.90",
+			"children":[
+			{
+				"name":"R00764\tC00085  D-Fructose 6-phosphate\tC00354  D-Fructose 1,6-bisphosphate",
+				"children":[
+				{
+					"name":"R02073\tC05345  beta-D-Fructose 6-phosphate\tC05378  beta-D-Fructose 1,6-bisphosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.7.1.94",
+			"children":[
+			{
+				"name":"R03754\tC15590  Acylglycerol\tC03849  Acyl-sn-glycerol 3-phosphate",
+				"children":[
+				{
+					"name":"R02757\tC01885  1-Acylglycerol\tC00681  1-Acyl-sn-glycerol 3-phosphate"
+				},
+				{
+					"name":"R02758\tC02112  2-Acylglycerol\tC03974  2-Acyl-sn-glycerol 3-phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.7.1.146",
+			"children":[
+			{
+				"name":"R05805\tC00085  D-Fructose 6-phosphate\tC00354  D-Fructose 1,6-bisphosphate",
+				"children":[
+				{
+					"name":"R09084\tC05345  beta-D-Fructose 6-phosphate\tC05378  beta-D-Fructose 1,6-bisphosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.7.1.147",
+			"children":[
+			{
+				"name":"R05804\tC00031  D-Glucose\tC00092  D-Glucose 6-phosphate",
+				"children":[
+				{
+					"name":"R09085\tC00267  alpha-D-Glucose\tC00668  alpha-D-Glucose 6-phosphate"
+				},
+				{
+					"name":"R09086\tC00221  beta-D-Glucose\tC01172  beta-D-Glucose 6-phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.7.1.162",
+			"children":[
+			{
+				"name":"R08962\tC03136  N-Acetyl-D-hexosamine\tC18055  N-Acetyl-alpha-D-hexosamine 1-phosphate",
+				"children":[
+				{
+					"name":"R08967\tC01132  N-Acetyl-D-galactosamine\tC18060  N-Acetyl-alpha-D-galactosamine 1-phosphate"
+				},
+				{
+					"name":"R08968\tC00140  N-Acetyl-D-glucosamine\tC04501  N-Acetyl-alpha-D-glucosamine 1-phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.7.4.4",
+			"children":[
+			{
+				"name":"R00334\tC00454  NDP",
+				"children":[
+				{
+					"name":"R00158\tC00105  UMP\tC00015  UDP"
+				},
+				{
+					"name":"R02098\tC00365  dUMP\tC01346  dUDP"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.7.4.6",
+			"children":[
+			{
+				"name":"R00331\tC00454  NDP\tC00201  Nucleoside triphosphate",
+				"children":[
+				{
+					"name":"R00124\tC00008  ADP\tC00002  ATP"
+				},
+				{
+					"name":"R00139\tC11038  2'-Deoxy-5-hydroxymethylcytidine-5'-diphosphate\tC11039  2'-Deoxy-5-hydroxymethylcytidine-5'-triphosphate"
+				},
+				{
+					"name":"R00156\tC00015  UDP\tC00075  UTP"
+				},
+				{
+					"name":"R00330\tC00035  GDP\tC00044  GTP"
+				},
+				{
+					"name":"R00570\tC00112  CDP\tC00063  CTP"
+				},
+				{
+					"name":"R00722\tC00104  IDP\tC00081  ITP"
+				},
+				{
+					"name":"R01137\tC00206  dADP\tC00131  dATP"
+				},
+				{
+					"name":"R01857\tC00361  dGDP\tC00286  dGTP"
+				},
+				{
+					"name":"R02093\tC00363  dTDP\tC00459  dTTP"
+				},
+				{
+					"name":"R02326\tC00705  dCDP\tC00458  dCTP"
+				},
+				{
+					"name":"R02331\tC01346  dUDP\tC00460  dUTP"
+				},
+				{
+					"name":"R03530\tC01344  dIDP\tC01345  dITP"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.7.4.10",
+			"children":[
+			{
+				"name":"R00333\tC00201  Nucleoside triphosphate\tC00454  NDP",
+				"children":[
+				{
+					"name":"R00157\tC00075  UTP\tC00015  UDP"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.7.7.6",
+			"children":[
+			{
+				"name":"R00444\tC00201  Nucleoside triphosphate",
+				"children":[
+				{
+					"name":"R00435\tC00002  ATP"
+				},
+				{
+					"name":"R00441\tC00044  GTP"
+				},
+				{
+					"name":"R00442\tC00063  CTP"
+				},
+				{
+					"name":"R00443\tC00075  UTP"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.7.7.7",
+			"children":[
+			{
+				"name":"R00379\tC00677  Deoxynucleoside triphosphate",
+				"children":[
+				{
+					"name":"R00375\tC00131  dATP"
+				},
+				{
+					"name":"R00376\tC00286  dGTP"
+				},
+				{
+					"name":"R00377\tC00458  dCTP"
+				},
+				{
+					"name":"R00378\tC00459  dTTP"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.7.7.8",
+			"children":[
+			{
+				"name":"R07282\tC00454  NDP",
+				"children":[
+				{
+					"name":"R00437\tC00008  ADP"
+				},
+				{
+					"name":"R00438\tC00015  UDP"
+				},
+				{
+					"name":"R00439\tC00035  GDP"
+				},
+				{
+					"name":"R00440\tC00112  CDP"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.7.7.28",
+			"children":[
+			{
+				"name":"R03149\tC00201  Nucleoside triphosphate\tC00991  alpha-D-Aldose 1-phosphate\tC01600  NDP-hexose",
+				"children":[
+				{
+					"name":"R03318\tC00044  GTP\tC01171  alpha-D-Hexose 1-phosphate\tC01581  GDPhexose"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.7.7.36",
+			"children":[
+			{
+				"name":"R03142\tC00991  alpha-D-Aldose 1-phosphate\tC01547  ADP-aldose",
+				"children":[
+				{
+					"name":"R08515\tC00103  D-Glucose 1-phosphate\tC00498  ADP-glucose"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.7.7.43",
+			"children":[
+			{
+				"name":"R02599\tC00591  N-Acylneuraminate\tC01064  CMP-N-acylneuraminate",
+				"children":[
+				{
+					"name":"R01117\tC00270  N-Acetylneuraminate\tC00128  CMP-N-acetylneuraminate"
+				},
+				{
+					"name":"R04215\tC03410  N-Glycoloyl-neuraminate\tC03691  CMP-N-glycoloylneuraminate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.7.7.46",
+			"children":[
+			{
+				"name":"R02432\tC00201  Nucleoside triphosphate\tC00505  Gentamicin\tC03565  2''-Nucleotidylgentamicin",
+				"children":[
+				{
+					"name":"R09047\tC00002  ATP\tC01917  Gentamicin A\tC18136  2''-Adenylylgentamicin A"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.7.7.48",
+			"children":[
+			{
+				"name":"R00444\tC00201  Nucleoside triphosphate",
+				"children":[
+				{
+					"name":"R00435\tC00002  ATP"
+				},
+				{
+					"name":"R00441\tC00044  GTP"
+				},
+				{
+					"name":"R00442\tC00063  CTP"
+				},
+				{
+					"name":"R00443\tC00075  UTP"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.7.7.64",
+			"children":[
+			{
+				"name":"R08845\tC00991  alpha-D-Aldose 1-phosphate\tC05227  UDP-sugar",
+				"children":[
+				{
+					"name":"R00289\tC00103  D-Glucose 1-phosphate\tC00029  UDP-glucose"
+				},
+				{
+					"name":"R00502\tC00446  alpha-D-Galactose 1-phosphate\tC00052  UDP-alpha-D-galactose"
+				},
+				{
+					"name":"R01381\tC05385  D-Glucuronate 1-phosphate\tC00167  UDP-glucuronate"
+				},
+				{
+					"name":"R01471\tC03737  alpha-D-Xylose 1-phosphate\tC00190  UDP-D-xylose"
+				},
+				{
+					"name":"R03077\tC03906  beta-L-Arabinose 1-phosphate\tC00935  UDP-L-arabinose"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.7.11.17",
+			"children":[
+			{
+				"name":"R00162\tC00017  Protein\tC00562  Phosphoprotein",
+				"children":[
+				{
+					"name":"R02884\tC00759  Caldesmon\tC01022  Caldesmon phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.7.12.1",
+			"children":[
+			{
+				"name":"R00162\tC00017  Protein\tC00562  Phosphoprotein",
+				"children":[
+				{
+					"name":"R02584\tC00585  Protein tyrosine\tC01167  Protein tyrosine phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.7.12.2",
+			"children":[
+			{
+				"name":"R00162\tC00017  Protein\tC00562  Phosphoprotein",
+				"children":[
+				{
+					"name":"R02584\tC00585  Protein tyrosine\tC01167  Protein tyrosine phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.8.2.2",
+			"children":[
+			{
+				"name":"R00629\tC00069  Alcohol\tC02000  Alkyl sulfate",
+				"children":[
+				{
+					"name":"R03405\tC01227  Dehydroepiandrosterone\tC04555  Dehydroepiandrosterone sulfate"
+				},
+				{
+					"name":"R08977\tC00187  Cholesterol\tC18043  Cholesterol sulfate"
+				},
+				{
+					"name":"R08978\tC01953  Pregnenolone\tC18044  3beta-Hydroxypregn-5-en-20-one sulfate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.8.2.3",
+			"children":[
+			{
+				"name":"R02809\tC00706  Amine\tC01614  Sulfamate",
+				"children":[
+				{
+					"name":"R01861\tC00292  Aniline\tC06011  Benzenamine sulfate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.8.2.15",
+			"children":[
+			{
+				"name":"R03946\tC02453  Phenolic steroid\tC02590  Steroid O-sulfate",
+				"children":[
+				{
+					"name":"R00535\tC00951  Estradiol-17beta\tC08357  Estradiol-17beta 3-sulfate"
+				},
+				{
+					"name":"R00536\tC05299  2-Methoxyestrone\tC08358  2-Methoxyestrone 3-sulfate"
+				},
+				{
+					"name":"R00537\tC05302  2-Methoxy-17beta-estradiol\tC08359  2-Methoxyestradiol-17beta 3-sulfate"
+				},
+				{
+					"name":"R02350\tC00468  Estrone\tC02538  Estrone 3-sulfate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.8.3.5",
+			"children":[
+			{
+				"name":"R01780\tC01656  3-Oxo acid\tC00264  3-Oxoacyl-CoA",
+				"children":[
+				{
+					"name":"R00410\tC00164  Acetoacetate\tC00332  Acetoacetyl-CoA"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.8.3.8",
+			"children":[
+			{
+				"name":"R00393\tC00040  Acyl-CoA\tC02403  Fatty acid anion",
+				"children":[
+				{
+					"name":"R01179\tC00136  Butanoyl-CoA\tC00246  Butanoic acid"
+				},
+				{
+					"name":"R01359\tC00332  Acetoacetyl-CoA\tC00164  Acetoacetate"
+				},
+				{
+					"name":"R07832\tC16273  3-Hydroxy-5-oxohexanoyl-CoA\tC16272  3-Hydroxy-5-oxohexanoate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"2.8.3.11",
+			"children":[
+			{
+				"name":"R02955\tC00815  Citramalate\tC01011  (3S)-Citramalyl-CoA",
+				"children":[
+				{
+					"name":"R03153\tC02614  (S)-2-Methylmalate\tC01011  (3S)-Citramalyl-CoA"
+				}
+				]
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"3. Hydrolases reactions",
+		"children":[
+		{
+			"name":"3.1.1.1",
+			"children":[
+			{
+				"name":"R00630\tC02391  Ester\tC00069  Alcohol\tC00060  Carboxylate",
+				"children":[
+				{
+					"name":"R06728\tC01416  Cocaine\tC12448  Ecgonine methyl ester\tC00180  Benzoate"
+				},
+				{
+					"name":"R08255\tC16641  Irinotecan\tC11173  SN-38\tC16836  1,4'-Bipiperidine-1'-carboxylic acid"
+				},
+				{
+					"name":"R08258\tC16543  NPC\tC11173  SN-38\tC16837  4-Amino-1-piperidinecarboxylic acid"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.1.1.2",
+			"children":[
+			{
+				"name":"R07342\tC15583  Phenyl acetate\tC15584  Phenol",
+				"children":[
+				{
+					"name":"R01241\tC00548  Phenyl acetate\tC00146  Phenol"
+				},
+				{
+					"name":"R06893\tC13636  4-Hydroxyphenyl acetate\tC00530  Hydroquinone"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.1.1.3",
+			"children":[
+			{
+				"name":"R01369\tC00165  Diacylglycerol\tC00060  Carboxylate",
+				"children":[
+				{
+					"name":"R02250\tC00641  1,2-Diacyl-sn-glycerol\tC00162  Fatty acid"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.1.1.4",
+			"children":[
+			{
+				"name":"R01313\tC00157  Phosphatidylcholine\tC04230  1-Acyl-sn-glycero-3-phosphocholine\tC00060  Carboxylate",
+				"children":[
+				{
+					"name":"R01315\tC00162  Fatty acid"
+				},
+				{
+					"name":"R01317\tC00219  Arachidonate"
+				},
+				{
+					"name":"R07064\tC01595  Linoleate"
+				},
+				{
+					"name":"R07859\tC06427  (9Z,12Z,15Z)-Octadecatrienoic acid"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.1.1.8",
+			"children":[
+			{
+				"name":"R01029\tC01777  Acylcholine\tC00060  Carboxylate",
+				"children":[
+				{
+					"name":"R01026\tC01996  Acetylcholine\tC00033  Acetate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.1.1.13",
+			"children":[
+			{
+				"name":"R02115\tC01958  Steryl ester\tC00370  Sterol",
+				"children":[
+				{
+					"name":"R01462\tC02530  Cholesterol ester\tC00187  Cholesterol"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.1.1.25",
+			"children":[
+			{
+				"name":"R03708\tC01770  gamma-Butyrolactone\tC01991  4-Hydroxyacid",
+				"children":[
+				{
+					"name":"R02933\tC01040  L-Gulono-1,4-lactone\tC00800  L-Gulonate"
+				},
+				{
+					"name":"R03034\tC03383  D-Galactono-1,4-lactone\tC00880  D-Galactonate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.1.1.32",
+			"children":[
+			{
+				"name":"R01314\tC00060  Carboxylate",
+				"children":[
+				{
+					"name":"R01316\tC00162  Fatty acid"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.1.1.53",
+			"children":[
+			{
+				"name":"R01810\tC03708  N-Acetyl-O-acetylneuraminate",
+				"children":[
+				{
+					"name":"R08600\tC04015  N-Acetyl-4-O-acetylneuraminate"
+				},
+				{
+					"name":"R08601\tC04017  N-Acetyl-9-O-acetylneuraminate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.1.2.6",
+			"children":[
+			{
+				"name":"R04090\tC03899  S-(2-Hydroxyacyl)glutathione\tC02929  2-Hydroxy carboxylate",
+				"children":[
+				{
+					"name":"R01736\tC03451  (R)-S-Lactoylglutathione\tC00256  (R)-Lactate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.1.2.22",
+			"children":[
+			{
+				"name":"R01705\tC00017  Protein\tC06412  Palmitoyl-protein",
+				"children":[
+				{
+					"name":"R08602\tC02743  [Protein]-L-cysteine\tC17202  S-Palmitoylprotein"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.1.3.1",
+			"children":[
+			{
+				"name":"R00626\tC01153  Orthophosphoric monoester\tC00069  Alcohol",
+				"children":[
+				{
+					"name":"R02135\tC01081  Thiamin monophosphate\tC00378  Thiamine"
+				},
+				{
+					"name":"R03024\tC03360  4-Nitrophenyl phosphate\tC00870  4-Nitrophenol"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.1.3.2",
+			"children":[
+			{
+				"name":"R00626\tC01153  Orthophosphoric monoester\tC00069  Alcohol",
+				"children":[
+				{
+					"name":"R00548\tC00061  FMN\tC00255  Riboflavin"
+				},
+				{
+					"name":"R02135\tC01081  Thiamin monophosphate\tC00378  Thiamine"
+				},
+				{
+					"name":"R03024\tC03360  4-Nitrophenyl phosphate\tC00870  4-Nitrophenol"
+				},
+				{
+					"name":"R11527\tC00681  1-Acyl-sn-glycerol 3-phosphate\tC01885  1-Acylglycerol"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.1.3.5",
+			"children":[
+			{
+				"name":"R07297\tC02520  5'-Ribonucleotide\tC00911  Ribonucleoside",
+				"children":[
+				{
+					"name":"R00183\tC00020  AMP\tC00212  Adenosine"
+				},
+				{
+					"name":"R00511\tC00055  CMP\tC00475  Cytidine"
+				},
+				{
+					"name":"R00963\tC00105  UMP\tC00299  Uridine"
+				},
+				{
+					"name":"R01126\tC00130  IMP\tC00294  Inosine"
+				},
+				{
+					"name":"R01227\tC00144  GMP\tC00387  Guanosine"
+				},
+				{
+					"name":"R02323\tC00455  Nicotinamide D-ribonucleotide\tC03150  Nicotinamide-beta-riboside"
+				},
+				{
+					"name":"R02719\tC00655  Xanthosine 5'-phosphate\tC01762  Xanthosine"
+				},
+				{
+					"name":"R03346\tC01185  Nicotinate D-ribonucleotide\tC05841  Nicotinate D-ribonucleoside"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.1.3.6",
+			"children":[
+			{
+				"name":"R03060\tC02508  3'-Ribonucleotide\tC00911  Ribonucleoside",
+				"children":[
+				{
+					"name":"R01562\tC01367  3'-AMP\tC00212  Adenosine"
+				},
+				{
+					"name":"R01877\tC01368  3'-UMP\tC00299  Uridine"
+				},
+				{
+					"name":"R02148\tC06193  Guanosine 3'-phosphate\tC00387  Guanosine"
+				},
+				{
+					"name":"R02370\tC05822  3'-CMP\tC00475  Cytidine"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.1.3.9",
+			"children":[
+			{
+				"name":"R00303\tC00092  D-Glucose 6-phosphate\tC00031  D-Glucose",
+				"children":[
+				{
+					"name":"R01788\tC00668  alpha-D-Glucose 6-phosphate\tC00267  alpha-D-Glucose"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.1.3.10",
+			"children":[
+			{
+				"name":"R00304\tC00031  D-Glucose",
+				"children":[
+				{
+					"name":"R00947\tC00267  alpha-D-Glucose"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.1.3.11",
+			"children":[
+			{
+				"name":"R00762\tC00354  D-Fructose 1,6-bisphosphate\tC00085  D-Fructose 6-phosphate",
+				"children":[
+				{
+					"name":"R04780\tC05378  beta-D-Fructose 1,6-bisphosphate\tC05345  beta-D-Fructose 6-phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.1.3.21",
+			"children":[
+			{
+				"name":"R08658\tC03189  DL-Glycerol 1-phosphate",
+				"children":[
+				{
+					"name":"R00841\tC00093  sn-Glycerol 3-phosphate"
+				},
+				{
+					"name":"R07298\tC00623  sn-Glycerol 1-phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.1.3.25",
+			"children":[
+			{
+				"name":"R07343\tC15585  myo-Inositol phosphate",
+				"children":[
+				{
+					"name":"R01185\tC01177  Inositol 1-phosphate"
+				},
+				{
+					"name":"R01186\tC03546  myo-Inositol 4-phosphate"
+				},
+				{
+					"name":"R01187\tC04006  1D-myo-Inositol 3-phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.1.3.29",
+			"children":[
+			{
+				"name":"R02597\tC01200  N-Acylneuraminate 9-phosphate\tC00591  N-Acylneuraminate",
+				"children":[
+				{
+					"name":"R01805\tC06241  N-Acetylneuraminate 9-phosphate\tC00270  N-Acetylneuraminate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.1.3.31",
+			"children":[
+			{
+				"name":"R01572\tC00215  Nucleotide\tC00801  Nucleoside",
+				"children":[
+				{
+					"name":"R03060\tC02508  3'-Ribonucleotide\tC00911  Ribonucleoside"
+				},
+				{
+					"name":"R07297\tC02520  5'-Ribonucleotide\tC00911  Ribonucleoside"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.1.3.46",
+			"children":[
+			{
+				"name":"R00763\tC00085  D-Fructose 6-phosphate",
+				"children":[
+				{
+					"name":"R02731\tC05345  beta-D-Fructose 6-phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.1.3.62",
+			"children":[
+			{
+				"name":"R07584\tC15991  myo-Inositol pentakisphosphate",
+				"children":[
+				{
+					"name":"R03371\tC04563  D-myo-Inositol 1,2,4,5,6-pentakisphosphate"
+				},
+				{
+					"name":"R03372\tC04579  Inositol 1,2,3,5,6-pentakisphosphate"
+				},
+				{
+					"name":"R07583\tC15990  1L-myo-Inositol 1,2,3,4,6-pentakisphosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.1.3.89",
+			"children":[
+			{
+				"name":"R10776\tC00676  Deoxynucleoside 5'-phosphate\tC02269  Deoxynucleoside",
+				"children":[
+				{
+					"name":"R01569\tC00364  dTMP\tC00214  Thymidine"
+				},
+				{
+					"name":"R01664\tC00239  dCMP\tC00881  Deoxycytidine"
+				},
+				{
+					"name":"R01968\tC00362  dGMP\tC00330  Deoxyguanosine"
+				},
+				{
+					"name":"R02088\tC00360  dAMP\tC00559  Deoxyadenosine"
+				},
+				{
+					"name":"R02102\tC00365  dUMP\tC00526  Deoxyuridine"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.1.3.97",
+			"children":[
+			{
+				"name":"R11188\tC21158  Nucleoside 3',5'-bisphosphate\tC01117  Nucleoside 5'-phosphate",
+				"children":[
+				{
+					"name":"R00188\tC00054  Adenosine 3',5'-bisphosphate\tC00020  AMP"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.1.4.16",
+			"children":[
+			{
+				"name":"R03423\tC01240  2',3'-Cyclic nucleotide\tC03419  Nucleoside 3'-phosphate",
+				"children":[
+				{
+					"name":"R03537\tC02353  2',3'-Cyclic AMP\tC01367  3'-AMP"
+				},
+				{
+					"name":"R03538\tC02355  2',3'-Cyclic UMP\tC01368  3'-UMP"
+				},
+				{
+					"name":"R03929\tC02354  2',3'-Cyclic CMP\tC05822  3'-CMP"
+				},
+				{
+					"name":"R05135\tC06194  2',3'-Cyclic GMP\tC06193  Guanosine 3'-phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.1.4.17",
+			"children":[
+			{
+				"name":"R03259\tC04212  3',5'-Cyclic nucleotide\tC01117  Nucleoside 5'-phosphate",
+				"children":[
+				{
+					"name":"R00191\tC00575  3',5'-Cyclic AMP\tC00020  AMP"
+				},
+				{
+					"name":"R01234\tC00942  3',5'-Cyclic GMP\tC00144  GMP"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.1.4.46",
+			"children":[
+			{
+				"name":"R00857\tC03120  Glycerophosphodiester\tC00069  Alcohol",
+				"children":[
+				{
+					"name":"R01030\tC00670  sn-Glycero-3-phosphocholine\tC00114  Choline"
+				},
+				{
+					"name":"R01470\tC01233  sn-Glycero-3-phosphoethanolamine\tC00189  Ethanolamine"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.1.6.1",
+			"children":[
+			{
+				"name":"R01243\tC00850  Aryl sulfate\tC15584  Phenol",
+				"children":[
+				{
+					"name":"R03980\tC02538  Estrone 3-sulfate\tC00468  Estrone"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.1.7.3",
+			"children":[
+			{
+				"name":"R03016\tC03517  Monoterpenyl diphosphate\tC00863  Monoterpenol",
+				"children":[
+				{
+					"name":"R08396\tC00341  Geranyl diphosphate\tC01500  Geraniol"
+				},
+				{
+					"name":"R08529\tC03190  (+)-Bornyl diphosphate\tC01765  (+)-Borneol"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.1.8.1",
+			"children":[
+			{
+				"name":"R03979\tC03254  Aryl dialkyl phosphate\tC02534  Dialkyl phosphate\tC15584  Phenol",
+				"children":[
+				{
+					"name":"R05548\tC06606  Paraoxon\tC06608  Diethylphosphoric acid\tC00870  4-Nitrophenol"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.2.1.25",
+			"children":[
+			{
+				"name":"R08613\tC02478  beta-D-Mannoside\tC01335  ROH",
+				"children":[
+				{
+					"name":"R08614\tC17207  1,4-beta-D-Mannooligosaccharide\tC17207  1,4-beta-D-Mannooligosaccharide"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.2.1.31",
+			"children":[
+			{
+				"name":"R01478\tC03033  beta-D-Glucuronoside\tC00069  Alcohol",
+				"children":[
+				{
+					"name":"R07818"
+				},
+				{
+					"name":"R08260\tC11376  SN38 glucuronide\tC11173  SN-38"
+				},
+				{
+					"name":"R10830"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.2.1.48",
+			"children":[
+			{
+				"name":"R00801\tC00089  Sucrose\tC00031  D-Glucose\tC00095  D-Fructose",
+				"children":[
+				{
+					"name":"R00802\tC00089  Sucrose\tC00267  alpha-D-Glucose\tC02336  beta-D-Fructose"
+				},
+				{
+					"name":"R06088"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.2.1.62",
+			"children":[
+			{
+				"name":"R01501\tC03701  Glycosyl-N-acylsphingosine\tC00144  GMP",
+				"children":[
+				{
+					"name":"R01498\tC01190  beta-D-Glucosyl-(11)-ceramide\tC00031  D-Glucose"
+				},
+				{
+					"name":"R03617\tC02686  Galactosylceramide\tC00124  D-Galactose"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.2.1.85",
+			"children":[
+			{
+				"name":"R03255\tC03847  6-Phospho-beta-D-galactoside\tC00069  Alcohol",
+				"children":[
+				{
+					"name":"R03256\tC05396  Lactose 6'-phosphate\tC00221  beta-D-Glucose"
+				},
+				{
+					"name":"R06110\tG10517  Lactose 6'-phosphate\tC00221  beta-D-Glucose"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.2.1.108",
+			"children":[
+			{
+				"name":"R01100\tC00031  D-Glucose",
+				"children":[
+				{
+					"name":"R01678\tC00267  alpha-D-Glucose"
+				},
+				{
+					"name":"R06098\tC00267  alpha-D-Glucose"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.2.1.165",
+			"children":[
+			{
+				"name":"R08715",
+				"children":[
+				{
+					"name":"R01966"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.2.2.1",
+			"children":[
+			{
+				"name":"R02341\tC15586  N-D-Ribosylpurine\tC15587  Purine",
+				"children":[
+				{
+					"name":"R01245\tC00212  Adenosine\tC00147  Adenine"
+				},
+				{
+					"name":"R01677\tC00387  Guanosine\tC00242  Guanine"
+				},
+				{
+					"name":"R01770\tC00294  Inosine\tC00262  Hypoxanthine"
+				},
+				{
+					"name":"R02143\tC01762  Xanthosine\tC00385  Xanthine"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.2.2.8",
+			"children":[
+			{
+				"name":"R02172\tC03169  Pyrimidine nucleoside\tC00396  Pyrimidine",
+				"children":[
+				{
+					"name":"R02137\tC00475  Cytidine\tC00380  Cytosine"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.2.2.10",
+			"children":[
+			{
+				"name":"R02171\tC03536  Pyrimidine 5'-nucleotide\tC00396  Pyrimidine",
+				"children":[
+				{
+					"name":"R00510\tC00055  CMP\tC00380  Cytosine"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.3.2.10",
+			"children":[
+			{
+				"name":"R02822\tC00722  Epoxide\tC15588  Glycol",
+				"children":[
+				{
+					"name":"R05842\tC06548  Ethylene oxide\tC01380  Ethylene glycol"
+				},
+				{
+					"name":"R07108\tC14771  14,15-EET\tC14775  14,15-DHET"
+				},
+				{
+					"name":"R07109\tC14770  11,12-EET\tC14774  11,12-DHET"
+				},
+				{
+					"name":"R07110\tC14769  8,9-EET\tC14773  8,9-DHET"
+				},
+				{
+					"name":"R07111\tC14768  5,6-EET\tC14772  5,6-DHET"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.4.13.20",
+			"children":[
+			{
+				"name":"R01166",
+				"children":[
+				{
+					"name":"R01992"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.5.1.3",
+			"children":[
+			{
+				"name":"R03804\tC04131  Monoamide of dicarboxylate\tC02028  Dicarboxylate",
+				"children":[
+				{
+					"name":"R00269\tC00940  2-Oxoglutaramate\tC00026  2-Oxoglutarate"
+				},
+				{
+					"name":"R00348\tC02362  2-Oxosuccinamate\tC00036  Oxaloacetate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.5.1.4",
+			"children":[
+			{
+				"name":"R03909\tC03620  Monocarboxylic acid amide\tC00060  Carboxylate",
+				"children":[
+				{
+					"name":"R00321\tC06244  Acetamide\tC00033  Acetate"
+				},
+				{
+					"name":"R02540\tC02505  2-Phenylacetamide\tC07086  Phenylacetic acid"
+				},
+				{
+					"name":"R03096\tC02693  (Indol-3-yl)acetamide\tC00954  Indole-3-acetate"
+				},
+				{
+					"name":"R03180\tC03078  4-Guanidinobutanamide\tC01035  4-Guanidinobutanoate"
+				},
+				{
+					"name":"R05551\tC01659  Acrylamide\tC00511  Acrylic acid"
+				},
+				{
+					"name":"R05590\tC09815  Benzamide\tC00180  Benzoate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.5.1.11",
+			"children":[
+			{
+				"name":"R02170\tC00395  Penicillin\tC00060  Carboxylate",
+				"children":[
+				{
+					"name":"R04103\tC05551  Penicillin G\tC07086  Phenylacetic acid"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.5.1.14",
+			"children":[
+			{
+				"name":"R01263\tC02850  N-Acyl-L-amino acid\tC00060  Carboxylate\tC00151  L-Amino acid",
+				"children":[
+				{
+					"name":"R00669\tC00437  N-Acetylornithine\tC00033  Acetate\tC00077  L-Ornithine"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.5.1.15",
+			"children":[
+			{
+				"name":"R00546\tC02715  N-Acyl-L-aspartate\tC00060  Carboxylate",
+				"children":[
+				{
+					"name":"R00488\tC01042  N-Acetyl-L-aspartate\tC00033  Acetate"
+				},
+				{
+					"name":"R00526\tC01044  N-Formyl-L-aspartate\tC00058  Formate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.5.1.17",
+			"children":[
+			{
+				"name":"R00545\tC02444  N6-Acyl-L-lysine\tC00060  Carboxylate",
+				"children":[
+				{
+					"name":"R00458\tC02727  N6-Acetyl-L-lysine\tC00033  Acetate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.5.1.23",
+			"children":[
+			{
+				"name":"R01493\tC00060  Carboxylate",
+				"children":[
+				{
+					"name":"R01494\tC00162  Fatty acid"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.5.2.6",
+			"children":[
+			{
+				"name":"R03743\tC01866  beta-Lactam\tC03806  Substituted beta-amino acid",
+				"children":[
+				{
+					"name":"R04318"
+				},
+				{
+					"name":"R06363\tC00395  Penicillin\tC06567  Penicilloic acid"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.5.5.1",
+			"children":[
+			{
+				"name":"R00540\tC00726  Nitrile\tC00060  Carboxylate",
+				"children":[
+				{
+					"name":"R01887\tC05715  gamma-Amino-gamma-cyanobutanoate\tC00302  Glutamate"
+				},
+				{
+					"name":"R03093\tC02938  3-Indoleacetonitrile\tC00954  Indole-3-acetate"
+				},
+				{
+					"name":"R03542\tC05714  alpha-Aminopropiononitrile\tC01401  Alanine"
+				},
+				{
+					"name":"R05591\tC09814  Benzonitrile\tC00180  Benzoate"
+				},
+				{
+					"name":"R07855\tC16074  Phenylacetonitrile\tC07086  Phenylacetic acid"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.5.5.7",
+			"children":[
+			{
+				"name":"R00540\tC00726  Nitrile\tC00060  Carboxylate",
+				"children":[
+				{
+					"name":"R05358\tC01998  Acrylonitrile\tC00511  Acrylic acid"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.6.1.6",
+			"children":[
+			{
+				"name":"R00329\tC00454  NDP\tC00215  Nucleotide",
+				"children":[
+				{
+					"name":"R00155\tC00015  UDP\tC00105  UMP"
+				},
+				{
+					"name":"R00328\tC00035  GDP\tC00144  GMP"
+				},
+				{
+					"name":"R00961\tC00104  IDP\tC00130  IMP"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.6.1.7",
+			"children":[
+			{
+				"name":"R00539\tC02133  Acyl phosphate\tC00060  Carboxylate",
+				"children":[
+				{
+					"name":"R00317\tC00227  Acetyl phosphate\tC00033  Acetate"
+				},
+				{
+					"name":"R01421\tC06206  Benzoyl phosphate\tC00180  Benzoate"
+				},
+				{
+					"name":"R01515\tC00236  3-Phospho-D-glyceroyl phosphate\tC00197  3-Phospho-D-glycerate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.6.1.9",
+			"children":[
+			{
+				"name":"R01532\tC00201  Nucleoside triphosphate\tC00215  Nucleotide",
+				"children":[
+				{
+					"name":"R00087\tC00002  ATP\tC00020  AMP"
+				},
+				{
+					"name":"R00515\tC00063  CTP\tC00055  CMP"
+				},
+				{
+					"name":"R00662\tC00075  UTP\tC00105  UMP"
+				},
+				{
+					"name":"R11323\tC00459  dTTP\tC00364  dTMP"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.6.1.15",
+			"children":[
+			{
+				"name":"R02319\tC00201  Nucleoside triphosphate\tC00454  NDP",
+				"children":[
+				{
+					"name":"R00086\tC00002  ATP\tC00008  ADP"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.6.1.20",
+			"children":[
+			{
+				"name":"R00542\tC03361  5'-Acylphosphoadenosine\tC00060  Carboxylate",
+				"children":[
+				{
+					"name":"R00322\tC00033  Acetate"
+				},
+				{
+					"name":"R01423\tC06433  5'-Benzoylphosphoadenosine\tC00180  Benzoate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.6.1.21",
+			"children":[
+			{
+				"name":"R03570\tC01469  ADP-sugar\tC00991  alpha-D-Aldose 1-phosphate",
+				"children":[
+				{
+					"name":"R00951\tC00498  ADP-glucose\tC00103  D-Glucose 1-phosphate"
+				},
+				{
+					"name":"R01885\tC00301  ADP-ribose\tC00620  alpha-D-Ribose 1-phosphate"
+				},
+				{
+					"name":"R02677\tC06192  ADP-mannose\tC00636  D-Mannose 1-phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.6.1.45",
+			"children":[
+			{
+				"name":"R03986\tC05227  UDP-sugar\tC00991  alpha-D-Aldose 1-phosphate",
+				"children":[
+				{
+					"name":"R00287\tC00029  UDP-glucose\tC00103  D-Glucose 1-phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.6.1.52",
+			"children":[
+			{
+				"name":"R05777\tC11524  Diphospho-myo-inositol polyphosphate\tC11525  myo-Inositol polyphosphate",
+				"children":[
+				{
+					"name":"R05779\tC11526  5-PP-InsP5\tC01204  Phytic acid"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.7.1.5",
+			"children":[
+			{
+				"name":"R00543\tC02119  3-Acylpyruvate\tC00060  Carboxylate",
+				"children":[
+				{
+					"name":"R01085\tC02514  3-Fumarylpyruvate\tC00122  Fumarate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.8.1.2",
+			"children":[
+			{
+				"name":"R03830\tC02103  (S)-2-Haloacid\tC02489  (R)-2-Hydroxyacid\tC00462  Halide",
+				"children":[
+				{
+					"name":"R05287\tC06755  Chloroacetic acid\tC00160  Glycolate\tC01327  Hydrochloric acid"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.8.1.3",
+			"children":[
+			{
+				"name":"R02336\tC01812  Haloacetate\tC00462  Halide",
+				"children":[
+				{
+					"name":"R02857\tC06108  Fluoroacetate\tC16487  Hydrofluoric acid"
+				},
+				{
+					"name":"R05287\tC06755  Chloroacetic acid\tC01327  Hydrochloric acid"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"3.8.1.5",
+			"children":[
+			{
+				"name":"R02337\tC01872  1-Haloalkane\tC00226  Primary alcohol\tC00462  Halide",
+				"children":[
+				{
+					"name":"R05284\tC06752  1,2-Dichloroethane\tC06753  2-Chloroethanol\tC01327  Hydrochloric acid"
+				},
+				{
+					"name":"R05367\tC06609  trans-1,3-Dichloropropene\tC06611  trans-3-Chloro-2-propene-1-ol\tC01327  Hydrochloric acid"
+				},
+				{
+					"name":"R05368\tC06610  cis-1,3-Dichloropropene\tC06612  cis-3-Chloro-2-propene-1-ol\tC01327  Hydrochloric acid"
+				},
+				{
+					"name":"R07669\tC06988  beta-1,2,3,4,5,6-Hexachlorocyclohexane\tC16181  beta-2,3,4,5,6-Pentachlorocyclohexanol\tC01327  Hydrochloric acid"
+				},
+				{
+					"name":"R07670\tC16181  beta-2,3,4,5,6-Pentachlorocyclohexanol\tC16182  beta-2,3,5,6-Tetrachloro-1,4-cyclohexanediol\tC01327  Hydrochloric acid"
+				}
+				]
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"4. Lyases reactions",
+		"children":[
+		{
+			"name":"4.1.1.1",
+			"children":[
+			{
+				"name":"R00636\tC00161  2-Oxo acid\tC00071  Aldehyde",
+				"children":[
+				{
+					"name":"R00224\tC00022  Pyruvate\tC00084  Acetaldehyde"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"4.1.1.98",
+			"children":[
+			{
+				"name":"R04985\tC05848  4-Hydroxy-3-polyprenylbenzoate\tC05807  2-Polyprenylphenol",
+				"children":[
+				{
+					"name":"R04986\tC05809  3-Octaprenyl-4-hydroxybenzoate\tC05810  2-Octaprenylphenol"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"4.1.2.13",
+			"children":[
+			{
+				"name":"R01068\tC00354  D-Fructose 1,6-bisphosphate",
+				"children":[
+				{
+					"name":"R01070\tC05378  beta-D-Fructose 1,6-bisphosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"4.1.3.16",
+			"children":[
+			{
+				"name":"R00470\tC01127  4-Hydroxy-2-oxoglutarate",
+				"children":[
+				{
+					"name":"R00471\tC05946  (4R)-4-Hydroxy-2-oxoglutarate"
+				},
+				{
+					"name":"R10283\tC20485  (4S)-4-Hydroxy-2-oxoglutarate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"4.1.99.3",
+			"children":[
+			{
+				"name":"R00034\tC03103  Cyclobutadipyrimidine\tC08249  Pyrimidine 5'-deoxynucleotide",
+				"children":[
+				{
+					"name":"R08765\tC17509  Thymine dimer\tC17510  Two thymine residues (in DNA)"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"4.2.1.1",
+			"children":[
+			{
+				"name":"R00132\tC01353  Carbonic acid",
+				"children":[
+				{
+					"name":"R10092\tC00288  HCO3-"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"4.2.1.9",
+			"children":[
+			{
+				"name":"R01209\tC04039  2,3-Dihydroxy-3-methylbutanoate",
+				"children":[
+				{
+					"name":"R04441\tC04272  (R)-2,3-Dihydroxy-3-methylbutanoate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"4.2.1.17",
+			"children":[
+			{
+				"name":"R02685\tC00640  (3S)-3-Hydroxyacyl-CoA\tC00658  trans-2,3-Dehydroacyl-CoA",
+				"children":[
+				{
+					"name":"R03026\tC01144  (S)-3-Hydroxybutanoyl-CoA\tC00877  Crotonoyl-CoA"
+				},
+				{
+					"name":"R03045\tC05668  3-Hydroxypropionyl-CoA\tC00894  Propenoyl-CoA"
+				},
+				{
+					"name":"R04170\tC05262  (S)-3-Hydroxydodecanoyl-CoA\tC03221  2-trans-Dodecenoyl-CoA"
+				},
+				{
+					"name":"R04204\tC04405  (2S,3S)-3-Hydroxy-2-methylbutanoyl-CoA\tC03345  2-Methylbut-2-enoyl-CoA"
+				},
+				{
+					"name":"R04224\tC06000  (S)-3-Hydroxyisobutyryl-CoA\tC03460  2-Methylprop-2-enoyl-CoA"
+				},
+				{
+					"name":"R04738\tC05258  (S)-3-Hydroxyhexadecanoyl-CoA\tC05272  trans-Hexadec-2-enoyl-CoA"
+				},
+				{
+					"name":"R04740\tC05260  (S)-3-Hydroxytetradecanoyl-CoA\tC05273  trans-Tetradec-2-enoyl-CoA"
+				},
+				{
+					"name":"R04744\tC05264  (S)-Hydroxydecanoyl-CoA\tC05275  trans-Dec-2-enoyl-CoA"
+				},
+				{
+					"name":"R04746\tC05266  (S)-3-Hydroxyoctanoyl-CoA\tC05276  trans-Oct-2-enoyl-CoA"
+				},
+				{
+					"name":"R04749\tC05268  (S)-Hydroxyhexanoyl-CoA\tC05271  trans-Hex-2-enoyl-CoA"
+				},
+				{
+					"name":"R07889\tC16328  trans-2-Enoyl-OPC8-CoA\tC16329  3-Hydroxy-OPC8-CoA"
+				},
+				{
+					"name":"R07893\tC16333  3-Hydroxy-OPC6-CoA\tC16332  trans-2-Enoyl-OPC6-CoA"
+				},
+				{
+					"name":"R07897\tC16337  3-Hydroxy-OPC4-CoA\tC16336  trans-2-Enoyl-OPC4-CoA"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"4.2.1.56",
+			"children":[
+			{
+				"name":"R02490\tC00904  Citramalyl-CoA",
+				"children":[
+				{
+					"name":"R02491\tC01011  (3S)-Citramalyl-CoA"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"4.2.1.59",
+			"children":[
+			{
+				"name":"R10208\tC01271  (3R)-3-Hydroxyacyl-[acyl-carrier protein]\tC00693  trans-2,3-Dehydroacyl-[acyl-carrier protein]",
+				"children":[
+				{
+					"name":"R04428\tC04618  (3R)-3-Hydroxybutanoyl-[acyl-carrier protein]\tC04246  But-2-enoyl-[acyl-carrier protein]"
+				},
+				{
+					"name":"R04535\tC04619  (3R)-3-Hydroxydecanoyl-[acyl-carrier protein]\tC05754  trans-Dec-2-enoyl-[acp]"
+				},
+				{
+					"name":"R04537\tC04620  (3R)-3-Hydroxyoctanoyl-[acyl-carrier protein]\tC05751  trans-Oct-2-enoyl-[acp]"
+				},
+				{
+					"name":"R04544\tC04633  (3R)-3-Hydroxypalmitoyl-[acyl-carrier protein]\tC05763  trans-Hexadec-2-enoyl-[acp]"
+				},
+				{
+					"name":"R04568\tC04688  (3R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]\tC05760  trans-Tetradec-2-enoyl-[acp]"
+				},
+				{
+					"name":"R04954\tC05747  (R)-3-Hydroxyhexanoyl-[acp]\tC05748  trans-Hex-2-enoyl-[acp]"
+				},
+				{
+					"name":"R04965\tC05757  (R)-3-Hydroxydodecanoyl-[acp]\tC05758  trans-Dodec-2-enoyl-[acp]"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"4.2.1.74",
+			"children":[
+			{
+				"name":"R02685\tC00640  (3S)-3-Hydroxyacyl-CoA\tC00658  trans-2,3-Dehydroacyl-CoA",
+				"children":[
+				{
+					"name":"R04170\tC05262  (S)-3-Hydroxydodecanoyl-CoA\tC03221  2-trans-Dodecenoyl-CoA"
+				},
+				{
+					"name":"R04738\tC05258  (S)-3-Hydroxyhexadecanoyl-CoA\tC05272  trans-Hexadec-2-enoyl-CoA"
+				},
+				{
+					"name":"R04740\tC05260  (S)-3-Hydroxytetradecanoyl-CoA\tC05273  trans-Tetradec-2-enoyl-CoA"
+				},
+				{
+					"name":"R04744\tC05264  (S)-Hydroxydecanoyl-CoA\tC05275  trans-Dec-2-enoyl-CoA"
+				},
+				{
+					"name":"R04746\tC05266  (S)-3-Hydroxyoctanoyl-CoA\tC05276  trans-Oct-2-enoyl-CoA"
+				},
+				{
+					"name":"R04749\tC05268  (S)-Hydroxyhexanoyl-CoA\tC05271  trans-Hex-2-enoyl-CoA"
+				},
+				{
+					"name":"R07889\tC16328  trans-2-Enoyl-OPC8-CoA\tC16329  3-Hydroxy-OPC8-CoA"
+				},
+				{
+					"name":"R07893\tC16333  3-Hydroxy-OPC6-CoA\tC16332  trans-2-Enoyl-OPC6-CoA"
+				},
+				{
+					"name":"R07897\tC16337  3-Hydroxy-OPC4-CoA\tC16336  trans-2-Enoyl-OPC4-CoA"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"4.2.1.84",
+			"children":[
+			{
+				"name":"R02826\tC02244  Aliphatic amide\tC00726  Nitrile",
+				"children":[
+				{
+					"name":"R04020\tC02693  (Indol-3-yl)acetamide\tC02938  3-Indoleacetonitrile"
+				},
+				{
+					"name":"R05379\tC01659  Acrylamide\tC01998  Acrylonitrile"
+				},
+				{
+					"name":"R07854\tC02505  2-Phenylacetamide\tC16074  Phenylacetonitrile"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"4.2.1.119",
+			"children":[
+			{
+				"name":"R09698\tC01086  (3R)-3-Hydroxyacyl-CoA\tC00658  trans-2,3-Dehydroacyl-CoA",
+				"children":[
+				{
+					"name":"R07935\tC16375  (3R,6Z,9Z,12Z,15Z,18Z,21Z)-3-Hydroxytetracosahexaenoyl-CoA\tC16374  (2E,6Z,9Z,12Z,15Z,18Z,21Z)-Tetracosaheptaenoyl-CoA"
+				},
+				{
+					"name":"R07951\tC16388  (3R,6Z,9Z,12Z,15Z,18Z)-3-Hydroxytetracosapentaenoyl-CoA\tC16387  (2E,6Z,9Z,12Z,15Z,18Z)-Tetracosahexaenoyl-CoA"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"4.2.1.169",
+			"children":[
+			{
+				"name":"R11506\tC18160  Bacteriochlorophyllide d\tC21426  3-Vinyl bacteriochlorophyllide d",
+				"children":[
+				{
+					"name":"R11510\tC21431  8-Ethyl-12-methylbacteriochlorophyllide d\tC18157  8-Ethyl-12-methyl-3-vinylbacteriochlorophyllide d"
+				},
+				{
+					"name":"R11511\tC21432  8,12-Diethylbacteriochlorophyllide d\tC21427  8,12-Diethyl-3-vinylbacteriochlorophyllide d"
+				},
+				{
+					"name":"R11512\tC21433  12-Ethyl-8-propylbacteriochlorophyllide d\tC21428  12-Ethyl-8-propyl-3-vinylbacteriochlorophyllide d"
+				},
+				{
+					"name":"R11513\tC21434  12-Ethyl-8-isobutylbacteriochlorophyllide d\tC21429  12-Ethyl-8-isobutyl-3-vinylbacteriochlorophyllide d"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"4.2.2.2",
+			"children":[
+			{
+				"name":"R08694\tC04810  Oligosaccharide with 4-deoxy-alpha-D-gluc-4-enuronosyl group",
+				"children":[
+				{
+					"name":"R02361\tC06118  4-(4-Deoxy-alpha-D-gluc-4-enuronosyl)-D-galacturonate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"4.4.1.13",
+			"children":[
+			{
+				"name":"R12188\tC02882  L-Cysteine-S-conjugate\tC00145  Thiol",
+				"children":[
+				{
+					"name":"R01286\tC02291  L-Cystathionine\tC00155  L-Homocysteine"
+				},
+				{
+					"name":"R02408\tC00491  L-Cystine\tC01962  Thiocysteine"
+				},
+				{
+					"name":"R02953\tC02749  S-Alkyl-L-cysteine\tC00812  Alkyl thiol"
+				},
+				{
+					"name":"R03528\tC02882  L-Cysteine-S-conjugate\tC01336  Aryl thiol"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"4.99.1.2",
+			"children":[
+			{
+				"name":"R03529\tC01343  Alkylmercury\tC01371  Alkane",
+				"children":[
+				{
+					"name":"R09339\tC18672  Methylmercury\tC01438  Methane"
+				}
+				]
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"5. Isomerases reactions",
+		"children":[
+		{
+			"name":"5.1.1.10",
+			"children":[
+			{
+				"name":"R01265\tC00151  L-Amino acid\tC00405  D-Amino acid",
+				"children":[
+				{
+					"name":"R00579\tC00064  L-Glutamine\tC00819  D-Glutamine"
+				},
+				{
+					"name":"R00589\tC00065  L-Serine\tC00740  D-Serine"
+				},
+				{
+					"name":"R00672\tC00077  L-Ornithine\tC00515  D-Ornithine"
+				},
+				{
+					"name":"R00903\tC00097  L-Cysteine\tC00793  D-Cysteine"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"5.1.3.8",
+			"children":[
+			{
+				"name":"R02652\tC03000  N-Acyl-D-glucosamine\tC00625  N-Acyl-D-mannosamine",
+				"children":[
+				{
+					"name":"R01207\tC00140  N-Acetyl-D-glucosamine\tC00645  N-Acetyl-D-mannosamine"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"5.1.3.9",
+			"children":[
+			{
+				"name":"R02770\tC00686  N-Acyl-D-mannosamine 6-phosphate\tC04136  N-Acyl-D-glucosamine 6-phosphate",
+				"children":[
+				{
+					"name":"R02087\tC00357  N-Acetyl-D-glucosamine 6-phosphate\tC04257  N-Acetyl-D-mannosamine 6-phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"5.1.99.4",
+			"children":[
+			{
+				"name":"R04729\tC05232  (2S)-2-Methylacyl-CoA\tC05329  (2R)-2-Methylacyl-CoA",
+				"children":[
+				{
+					"name":"R08734\tC15613  (25R)-3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestan-26-oyl-CoA\tC17343  (25S)-3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestan-26-oyl-CoA"
+				},
+				{
+					"name":"R08739\tC17345  (25R)-3alpha,7alpha-Dihydroxy-5beta-cholestanoyl-CoA\tC17346  (25S)-3alpha,7alpha-Dihydroxy-5beta-cholestanoyl-CoA"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"5.3.1.8",
+			"children":[
+			{
+				"name":"R00772\tC00085  D-Fructose 6-phosphate",
+				"children":[
+				{
+					"name":"R01819\tC05345  beta-D-Fructose 6-phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"5.3.1.9",
+			"children":[
+			{
+				"name":"R00771\tC00092  D-Glucose 6-phosphate\tC00085  D-Fructose 6-phosphate",
+				"children":[
+				{
+					"name":"R02740\tC00668  alpha-D-Glucose 6-phosphate\tC05345  beta-D-Fructose 6-phosphate"
+				},
+				{
+					"name":"R03321\tC01172  beta-D-Glucose 6-phosphate\tC05345  beta-D-Fructose 6-phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"5.3.1.27",
+			"children":[
+			{
+				"name":"R05339\tC00085  D-Fructose 6-phosphate",
+				"children":[
+				{
+					"name":"R09780\tC05345  beta-D-Fructose 6-phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"5.3.1.28",
+			"children":[
+			{
+				"name":"R09768\tC19882  D-glycero-D-manno-Heptose 7-phosphate",
+				"children":[
+				{
+					"name":"R05645\tC07836  D-glycero-beta-D-manno-Heptose 7-phosphate"
+				},
+				{
+					"name":"R09769\tC19878  D-glycero-alpha-D-manno-Heptose 7-phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"5.3.3.1",
+			"children":[
+			{
+				"name":"R02644\tC01034  3-Oxo-Delta5-steroid\tC00619  3-Oxo-Delta4-steroid",
+				"children":[
+				{
+					"name":"R09955\tC20252  5-Androstene-3,17-dione\tC00280  Androstenedione"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"5.3.99.7",
+			"children":[
+			{
+				"name":"R02615\tC02083  Styrene oxide",
+				"children":[
+				{
+					"name":"R10697\tC20782  (S)-2-Phenyloxirane"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"5.4.2.2",
+			"children":[
+			{
+				"name":"R08639\tC00103  D-Glucose 1-phosphate\tC00092  D-Glucose 6-phosphate",
+				"children":[
+				{
+					"name":"R00959\tC00103  D-Glucose 1-phosphate\tC00668  alpha-D-Glucose 6-phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"5.4.2.5",
+			"children":[
+			{
+				"name":"R08639\tC00092  D-Glucose 6-phosphate",
+				"children":[
+				{
+					"name":"R00959\tC00668  alpha-D-Glucose 6-phosphate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"5.4.3.6",
+			"children":[
+			{
+				"name":"R00739\tC00082  L-Tyrosine\tC04368  3-Amino-3-(4-hydroxyphenyl)propanoate",
+				"children":[
+				{
+					"name":"R11366\tC00082  L-Tyrosine\tC21308  (S)-beta-Tyrosine"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"5.4.99.3",
+			"children":[
+			{
+				"name":"R03052\tC00900  2-Acetolactate",
+				"children":[
+				{
+					"name":"R05071\tC06010  (S)-2-Acetolactate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"5.5.1.1",
+			"children":[
+			{
+				"name":"R03959\tC04105  2,5-Dihydro-5-oxofuran-2-acetate",
+				"children":[
+				{
+					"name":"R06989\tC14610  (S)-5-Oxo-2,5-dihydrofuran-2-acetate"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"5.5.1.6",
+			"children":[
+			{
+				"name":"R07344\tC15589  Chalcone\tC00766  Flavanone",
+				"children":[
+				{
+					"name":"R02446\tC06561  Naringenin chalcone\tC00509  Naringenin"
+				},
+				{
+					"name":"R02898\tC09321  2'-Hydroxychalcone\tC00766  Flavanone"
+				},
+				{
+					"name":"R06556\tC08650  Isoliquiritigenin\tC09762  Liquiritigenin"
+				},
+				{
+					"name":"R07990\tC16404  Pinocembrin chalcone\tC09827  Pinocembrin"
+				},
+				{
+					"name":"R07995\tC08578  Butein\tC09614  Butin"
+				}
+				]
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"6. Ligases reactions",
+		"children":[
+		{
+			"name":"6.2.1.2",
+			"children":[
+			{
+				"name":"R00389\tC21925  Medium-chain fatty acid\tC21926  Medium-chain acyl-CoA",
+				"children":[
+				{
+					"name":"R01176\tC00246  Butanoic acid\tC00136  Butanoyl-CoA"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"6.2.1.3",
+			"children":[
+			{
+				"name":"R00390\tC00347  Long-chain carboxylate\tC00040  Acyl-CoA",
+				"children":[
+				{
+					"name":"R01280\tC00249  Hexadecanoic acid\tC00154  Palmitoyl-CoA"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"6.3.2.17",
+			"children":[
+			{
+				"name":"R04241\tC03541  THF-polyglutamate\tC03541  THF-polyglutamate",
+				"children":[
+				{
+					"name":"R00942\tC00101  Tetrahydrofolate\tC09332  THF-L-glutamate"
+				}
+				]
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"7. Translocases reactions"
+	}
+	]
+}
+
